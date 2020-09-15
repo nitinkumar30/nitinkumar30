@@ -20,6 +20,7 @@ __To play a vital role in the development of technology mostly new techs and stu
     * C++
     * Java
     * Python :snake: ( pygame, tkinter, flask) :performing_arts:
+    * Go language
     * Networking & Communication
     * HTML, CSS, Javascript ( angular )
     * PHP & SQLServer with SQLite
@@ -36,5 +37,3 @@ __To play a vital role in the development of technology mostly new techs and stu
 * [Self-made bot](https://code-sololearn.com/WBKTV8xLY81X/?ref=app)
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
 * Various Management related projects which are not live yet
-
-# :end: \ :nine: :one: :one: :three: :seven: :nine: :seven: :one: :nine: :nine:
