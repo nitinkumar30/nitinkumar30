@@ -3,7 +3,7 @@
 I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge, exploring techs , Web Development and Cyber Security researching.
 
 - 💬 Ask me about: Web Development, Cyber Knowledge, Python, and Latest techs.
-- 📫 How to reach me: DM [@nitinkumar](https://twitter.com/iambolajiayo)
+- 📫 How to reach me: DM [@nitinBlackEagle](https://twitter.com/nitinBlackEagle)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm in a blissful relationship [with Python](https://www.python.org).
 
