@@ -1,4 +1,7 @@
-### Nitin Kumar 👋
+
+# :pushpin: **MY RESUME** :boy:
+
+# Nitin Kumar 👋
 
 I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge, exploring techs , Web Development and Cyber Security researching.
 
@@ -7,11 +10,7 @@ I'm a Full Stack Developer and Technical Researcher . I'm passionate about shari
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm in a blissful relationship [with Python](https://www.python.org).
 
-# :pushpin: **MY RESUME** :boy:
-
 > My :link: [portfolio](https://bit.ly/kumarnitin)  :gem:
-
-### My profile visitors :
 
 ### E-mail ID :e-mail:
 
