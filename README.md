@@ -14,8 +14,8 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 ### Contact Me :
 
-- [https://www.flaticon.com/free-icon/github-logo_25231?term=social&page=1&position=6](https://github.com/nitin30kumar)
-- [https://www.flaticon.com/free-icon/twitter-black-shape_25660?term=social&page=1&position=22](https://twitter.com/nitinkumar)
+- [<i class="ri-instagram-fill"></i>](https://github.com/nitin30kumar)
+- [<i class="ri-linkedin-box-fill"></i>](https://twitter.com/nitinkumar)
 - [https://www.flaticon.com/free-icon/instagram-symbol_25425?term=social&page=1&position=2](https://www.instagram.com/blackeagle.nitin)
 - [https://www.flaticon.com/free-icon/linkedin-sign_25320?term=linkedin&page=1&position=1](www.linkedin.com/in/nitin-kumar-626759131)
 
