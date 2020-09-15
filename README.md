@@ -23,10 +23,12 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 ### Contact Me :
 
-- [<i class="ri-instagram-fill"></i>](https://github.com/nitin30kumar)
-- [<i class="ri-linkedin-box-fill"></i>](https://twitter.com/nitinkumar)
-- [https://www.flaticon.com/free-icon/instagram-symbol_25425?term=social&page=1&position=2](https://www.instagram.com/blackeagle.nitin)
-- [https://www.flaticon.com/free-icon/linkedin-sign_25320?term=linkedin&page=1&position=1](www.linkedin.com/in/nitin-kumar-626759131)
+- [https://anonfiles.com/Fey44bV9o5/icons8-github-48_png](https://github.com/nitin30kumar)
+- [https://anonfiles.com/fdz347V5oe/icons8-instagram-48_png](https://twitter.com/nitinkumar)
+- [https://anonfiles.com/58z244V8od/icons8-linkedin-48_png](https://www.instagram.com/blackeagle.nitin)
+- [https://anonfiles.com/T6z540Vboa/icons8-stack-overflow-48_png](www.linkedin.com/in/nitin-kumar-626759131)
+- [https://anonfiles.com/ve0840V2o6/icons8-twitter-48_png](https://twitter.com/nitinkumar)
+- [https://anonfiles.com/Pf044dVfo9/icons8-whatsapp-48_png](https://api.whatsapp.com/send?phone=919113797193)
 
 ### Computer Knowledge :computer:
 
