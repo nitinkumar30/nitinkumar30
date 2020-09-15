@@ -22,8 +22,6 @@ I'm a Full Stack Developer and Technical Researcher . I'm passionate about shari
 __To play a vital role in the development of technology mostly new techs and stuff related to Cyber Security__ :comet: :gem:
 
 ### Contact Me :
-[![Alt text](/path/to/img.jpg)](http://example.net/)
-
 
 - [![GITHUB](https://drive.google.com/file/d/1vy1Nc9deNlOoLhR8jkJWSvQm9XS1qHAU/view?usp=sharing)](https://github.com/nitin30kumar)
 - [![INSTAGRAM](https://anonfiles.com/fdz347V5oe/icons8-instagram-48_png)](https://instagram.com/blackeagle.nitin)
