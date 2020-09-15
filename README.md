@@ -30,7 +30,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 - [![LINKEDIIN](https://anonfiles.com/58z244V8od/icons8-linkedin-48_png)](https://www.linkedin.com/nitin-kumar-626759131)
 - [![STACK-OVERFLOW](https://anonfiles.com/T6z540Vboa/icons8-stack-overflow-48_png)](https://stackoverflow.com/users/10957470/nitin-kumar)
 - [![TWITTER](https://anonfiles.com/ve0840V2o6/icons8-twitter-48_png)](https://twitter.com/nitinBlackEagle)
-- [![WHATSAPP]https://anonfiles.com/Pf044dVfo9/icons8-whatsapp-48_png)](https://api.whatsapp.com/send?phone=919113797193)
+- [![WHATSAPP](https://anonfiles.com/Pf044dVfo9/icons8-whatsapp-48_png)](https://api.whatsapp.com/send?phone=919113797193)
 
 ### Computer Knowledge :computer:
 
