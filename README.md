@@ -2,6 +2,8 @@
 
 > My :link: [portfolio](https://bit.ly/kumarnitin)  :gem:
 
+### My profile visitors :
+
 ### E-mail ID :e-mail:
 
 > nitinkumarpythonic@gmail.com
@@ -10,20 +12,20 @@
 
 __To play a vital role in the development of technology mostly new techs and stuff related to Cyber Security__ :comet: :gem:
 
+### Contact Me :
+
+- [https://www.flaticon.com/free-icon/github-logo_25231?term=social&page=1&position=6](https://github.com/nitin30kumar)
+- [https://www.flaticon.com/free-icon/twitter-black-shape_25660?term=social&page=1&position=22](https://twitter.com/nitinkumar)
+- [https://www.flaticon.com/free-icon/instagram-symbol_25425?term=social&page=1&position=2](https://www.instagram.com/blackeagle.nitin)
+- [https://www.flaticon.com/free-icon/linkedin-sign_25320?term=linkedin&page=1&position=1](www.linkedin.com/in/nitin-kumar-626759131)
+
 ### Computer Knowledge :computer:
 
 * Basic Knowledge of -
-    * Windows
-    * C language
-    * C#
-    * R language
-    * C++
+    * Windows & Linux
     * Java
     * Python :snake: ( pygame, tkinter, flask) :performing_arts:
     * Go language
-    * Networking & Communication
-    * HTML, CSS, Javascript ( angular )
-    * PHP & SQLServer with SQLite
     * Cyber Security :sunglasses:
 
 ### Extra Curriculur Activities :hourglass_flowing_sand: :man_technologist:
@@ -36,4 +38,3 @@ __To play a vital role in the development of technology mostly new techs and stu
 * Client Website [Navi Advertising](naviadvertising.in)
 * [Self-made bot](https://code-sololearn.com/WBKTV8xLY81X/?ref=app)
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
-* Various Management related projects which are not live yet
