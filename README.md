@@ -41,7 +41,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 ### Extra Curriculur Activities :hourglass_flowing_sand: :man_technologist:
 
 * Web Designer as a freelancer 
-* Completed [MTA](bit.ly/39NaCez) :sunglasses:
+* Completed [MTA](https://bit.ly/39NaCez) :sunglasses:
 
 ### My projects other than in GitHub :technologist:
 
