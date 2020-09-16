@@ -70,7 +70,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
 
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark&hide=prs,issues)
 
 
 
