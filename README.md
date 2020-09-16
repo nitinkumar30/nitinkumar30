@@ -2,16 +2,9 @@
 
 
 
-
-
-
-
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
-
-
-
 
 
 
