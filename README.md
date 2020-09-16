@@ -22,6 +22,18 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 ### Contact Me :
 
+[<img align="left" alt="https:bit.ly/kumarnitin" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="nitinBlackEagle | Twitter" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="nitin-kumar-626759131 | LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+
+
 - [![GITHUB](https://drive.google.com/file/d/1vy1Nc9deNlOoLhR8jkJWSvQm9XS1qHAU/view?usp=sharing)](https://github.com/nitin30kumar)
 - [![INSTAGRAM](https://anonfiles.com/fdz347V5oe/icons8-instagram-48_png)](https://instagram.com/blackeagle.nitin)
 - [![LINKEDIIN](https://anonfiles.com/58z244V8od/icons8-linkedin-48_png)](https://www.linkedin.com/nitin-kumar-626759131)
