@@ -16,7 +16,9 @@ I'm a Full Stack Developer and Technical Researcher . I'm passionate about shari
 
 > nitinkumarpythonic@gmail.com
 
-### Microsoft Technical Associates-2019 [<img align="left" alt="MTA-2019 | MTA" height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][mta]
+### My certificates :
+
+* Microsoft Technical Associates-2019 [<img align="left" alt="MTA-2019 | MTA" height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][mta]
 
 ### Objective :dart: 
 
