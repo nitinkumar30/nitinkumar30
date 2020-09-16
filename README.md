@@ -16,6 +16,8 @@ I'm a Full Stack Developer and Technical Researcher . I'm passionate about shari
 
 > nitinkumarpythonic@gmail.com
 
+### MTA-2019 [<img align="left" alt="MTA-2019 | MTA" height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mta.svg" />][mta]
+
 ### Objective :dart: 
 
 __To play a vital role in the development of technology mostly new techs and stuff related to Cyber Security__ :comet: :gem:
@@ -38,7 +40,6 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 <br />
 
-
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -52,15 +53,6 @@ __To play a vital role in the development of technology mostly new techs and stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-### Computer Knowledge :computer:
-
-* Basic Knowledge of -
-    * Windows & Linux
-    * Java
-    * Python :snake: ( pygame, tkinter, flask) :performing_arts:
-    * Go language
-    * Cyber Security :sunglasses:
 
 ### Extra Curriculur Activities :hourglass_flowing_sand: :man_technologist:
 
@@ -86,3 +78,5 @@ __To play a vital role in the development of technology mostly new techs and stu
 [instagram]: https://instagram.com/blackeagle.nitin
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797193
 [telegram]: https://t.me/blackeagleanonymous
+[mta]: https://bit.ly/39NaCez
+
