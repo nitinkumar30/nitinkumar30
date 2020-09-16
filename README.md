@@ -34,7 +34,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 [<img align="left" alt="nitin-kumar | WhatsApp" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[<img align="left" alt="nitin-kumar | Telegram" height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="nitin-kumar | Telegram" height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
