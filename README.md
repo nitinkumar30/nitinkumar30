@@ -5,6 +5,7 @@
 [![Static Websites](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=static-projects)](https://github.com/nitin30kumar/static-projects)
 <br />
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
 ### I'm [Nitin Kumar](https://twitter.com/nitinBlackEagle) 👋
