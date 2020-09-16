@@ -2,7 +2,7 @@
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar/data-structure-in-python)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
 
 
@@ -70,7 +70,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
 
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark&hide=prs,issues)
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=gruvbox&hide=prs,issues)
 
 
 
