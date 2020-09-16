@@ -8,9 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
-### I'm [Nitin Kumar](https://twitter.com/nitinBlackEagle) 👋
-
-I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge about new techs , Web Development and Cyber Security researches.
+I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
 
 ### Contact Me :
 
