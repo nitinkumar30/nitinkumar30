@@ -3,7 +3,7 @@
 
 ### I'm [Nitin Kumar](https://twitter.com/nitinBlackEagle) 👋
 
-I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge, exploring techs , Web Development and Cyber Security researching.
+I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge about new techs , Web Development and Cyber Security researches.
 
 - 💬 Ask me about: Web Development, Cyber Knowledge, Python, and Latest techs.
 - 📫 How to reach me: DM [@nitinBlackEagle](https://twitter.com/nitinBlackEagle)
