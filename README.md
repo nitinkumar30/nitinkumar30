@@ -1,5 +1,7 @@
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-blue.svg?style=for-the-badge" alt="made with python">
 
+[![Badge](https://img.shields.io/badge/Favourite Language-Python-blue.svg)](https://shields.io/)
+
 
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
@@ -10,21 +12,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
-
-
-
-
-# :pushpin: **MY RESUME** :boy:
-
 ### I'm [Nitin Kumar](https://twitter.com/nitinBlackEagle) 👋
 
 I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge about new techs , Web Development and Cyber Security researches.
 
 > My :link: [portfolio](https://bit.ly/kumarnitin)  :gem:
-
-### E-mail ID :e-mail:
-
-> nitinkumarpythonic@gmail.com
 
 ### My certificates :
 
