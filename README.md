@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/CODER-PYTHON-informational?style=for-the-badge&logo=python&logoColor=blueviolet&color=2bbc8a)
+![](https://img.shields.io/badge/CODER-PYTHON-informational?style=for-the-badge&logo=python&logoColor=ff69b4&color=2bbc8a)
 
 
 
