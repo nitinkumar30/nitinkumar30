@@ -1,9 +1,5 @@
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-blue.svg?style=for-the-badge" alt="made with python">
 
-<img src="https://img.shields.io/github/tag/expressjs/express.svg?style=for-the-badge" alt="github tag">
-
-<img src="https://img.shields.io/github/languages/top/badges/shields.svg?style=for-the-badge" alt="top language">
-
 
 
 
