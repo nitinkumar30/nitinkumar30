@@ -1,7 +1,8 @@
-![](https://img.shields.io/badge/CODER-PYTHON-informational?style=for-the-badge&logo=python&logoColor=ff69b4&color=2bbc8a)
+![](https://img.shields.io/badge/INTEREST-CYBER SECURITY-informational?style=for-the-badge&logo=lock&logoColor=ff69b4&color=2bbc8a)
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar)](https://github.com/nitin30kumar/github-readme-stats)
+[![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true)](https://github.com/nitin30kumar/github-readme-stats)
 
+[![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
 
 
 # :pushpin: **MY RESUME** :boy:
