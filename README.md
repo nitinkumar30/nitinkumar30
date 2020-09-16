@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/CODER-PYTHON-informational?style=for-the-badge&logo=python&logoColor=ff69b4&color=2bbc8a)
 
-
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar)](https://github.com/nitin30kumar/github-readme-stats)
 
 
 
