@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/<CODER>-<PYTHON>-informational?style=flat&logo=<python>&logoColor=white&color=2bbc8a)
+
+
+
+
 
 # :pushpin: **MY RESUME** :boy:
 
