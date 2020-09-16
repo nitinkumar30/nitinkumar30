@@ -56,11 +56,6 @@ __To play a vital role in the development of technology mostly new techs and stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-### Extra Curriculur Activities :hourglass_flowing_sand: :man_technologist:
-
-* Web Designer as a freelancer 
-* Completed [MTA](https://bit.ly/39NaCez) :sunglasses:
-
 ### My projects other than in GitHub :technologist:
 
 * Client Website [Navi Advertising](naviadvertising.in)
