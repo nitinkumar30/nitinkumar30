@@ -32,7 +32,9 @@ __To play a vital role in the development of technology mostly new techs and stu
 
 [<img align="left" alt="nitin-kumar | Stack Overflow" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
 
-[<img align="left" alt="nitin-kumar | Stack Overflow" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="nitin-kumar | WhatsApp" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+[<img align="left" alt="nitin-kumar | Telegram" height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 
 <br />
 
@@ -52,8 +54,6 @@ __To play a vital role in the development of technology mostly new techs and stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <br/>
-
-
 
 ### Computer Knowledge :computer:
 
@@ -76,7 +76,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
 
 
-<img align="left" alt="nitin30kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues" />
+ ### <img align="left" alt="nitin30kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues" />
 
 
 
@@ -87,3 +87,4 @@ __To play a vital role in the development of technology mostly new techs and stu
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/blackeagle.nitin
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797193
+[telegram]: https://t.me/blackeagleanonymous
