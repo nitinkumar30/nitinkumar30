@@ -5,11 +5,6 @@
 
 I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge about new techs , Web Development and Cyber Security researches.
 
-- 💬 Ask me about: Web Development, Cyber Knowledge, Python, and Latest techs.
-- 📫 How to reach me: DM [@nitinBlackEagle](https://twitter.com/nitinBlackEagle)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm in a blissful relationship with [Python](https://www.python.org).
-
 > My :link: [portfolio](https://bit.ly/kumarnitin)  :gem:
 
 ### E-mail ID :e-mail:
