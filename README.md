@@ -1,6 +1,14 @@
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-blue.svg?style=for-the-badge" alt="made with python">
 
-https://img.shields.io/github/tag/expressjs/express.svg
+<img src="https://img.shields.io/github/tag/expressjs/express.svg?style=for-the-badge" alt="github tag">
+
+<img src="https://img.shields.io/github/languages/top/badges/shields.svg?style=for-the-badge" alt="top language">
+
+
+
+
+
+
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
