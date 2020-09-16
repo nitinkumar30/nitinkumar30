@@ -2,7 +2,6 @@
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
-[![Static Websites](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=static-projects)](https://github.com/nitin30kumar/static-projects)
 <br />
 <hr>
 
