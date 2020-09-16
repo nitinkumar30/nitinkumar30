@@ -3,9 +3,8 @@
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
 [![Static Websites](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=static-projects)](https://github.com/nitin30kumar/static-projects)
-
-[![Text Editor in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=text-editor-with-python)](https://github.com/nitin30kumar/text-editor-with-python)
-
+<br />
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
 ### I'm [Nitin Kumar](https://twitter.com/nitinBlackEagle) 👋
