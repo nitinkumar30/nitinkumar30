@@ -12,16 +12,6 @@
 
 I'm a Full Stack Developer and Technical Researcher . I'm passionate about sharing knowledge about new techs , Web Development and Cyber Security researches.
 
-> My :link: [portfolio](https://bit.ly/kumarnitin)  :gem:
-
-### My certificates :
-
-* Microsoft Technical Associates-2019 [<img align="left" alt="MTA-2019 | MTA" height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][mta]
-
-### Objective :dart: 
-
-__To play a vital role in the development of technology mostly new techs and stuff related to Cyber Security__ :comet: :gem:
-
 ### Contact Me :
 
 [<img align="left" alt="nitinkumar" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
