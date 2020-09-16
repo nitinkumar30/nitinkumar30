@@ -1,4 +1,4 @@
-!(https://img.shields.io/badge/FAVOURITE LANGUAGE-PYTHON-informational?style=for-the-badge&logo=python&logoColor=ff69b4&color=2bbc8a)
+<img src="https://img.shields.io/badge/Favourite%20Language-Python-blue.svg" alt="made with python">
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
