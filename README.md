@@ -1,10 +1,8 @@
 !(https://img.shields.io/badge/FAVOURITE LANGUAGE-PYTHON-informational?style=for-the-badge&logo=python&logoColor=ff69b4&color=2bbc8a)
 
-![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
+[![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
-[![Black Coder](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=black-coder)](https://github.com/nitin30kumar/black-coder)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar/data-structure-in-python)
 
 
 
@@ -72,7 +70,7 @@ __To play a vital role in the development of technology mostly new techs and stu
 * My [Social Networking Site](nitsanon.epizy.com) under construction :construction:
 
 
- ### <img align="left" alt="nitin30kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues" />
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
 
 
 
