@@ -1,8 +1,18 @@
-![](https://img.shields.io/badge/INTEREST-CYBER SECURITY-informational?style=for-the-badge&logo=lock&logoColor=ff69b4&color=2bbc8a)
+[!(https://img.shields.io/badge/INTEREST-CYBER SECURITY-informational?style=for-the-badge&logo=lock&logoColor=ff69b4&color=2bbc8a)
 
 [![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true)](https://github.com/nitin30kumar/github-readme-stats)
 
-[![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=dark)
+
+[![Black Coder](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=black-coder)](https://github.com/nitin30kumar/black-coder)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar/github-readme-stats)
+
+
+
+
+
+
 
 
 # :pushpin: **MY RESUME** :boy:
