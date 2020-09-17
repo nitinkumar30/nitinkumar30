@@ -57,7 +57,7 @@
 [linkedin]: https://www.linkedin.com/nitin-kumar-626759131
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/blackeagle.nitin
-[whatsapp]: https://api.whatsapp.com/send?phone=919113797193
+[whatsapp]: https://api.whatsapp.com/send?phone=919113797199
 [telegram]: https://t.me/blackeagleanonymous
 [mta]: https://bit.ly/39NaCez
 
