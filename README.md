@@ -12,7 +12,7 @@
 
 ### Contact Me :
 
-[<img align="left" alt="nitinkumar" height="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nitinkumar" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="nitinBlackEagle | Twitter" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
