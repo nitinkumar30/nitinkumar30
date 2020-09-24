@@ -16,7 +16,7 @@
 
 [<img align="left" alt="nitinBlackEagle | Twitter" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="nitin-kumar-626759131 | LinkedIn" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nitin30kumar | LinkedIn" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="blackeagle.nitin | Instagram" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -56,7 +56,7 @@
 
 [website]: https://bit.ly/kumarnitin
 [twitter]: https://twitter.com/nitinBlackEagle
-[linkedin]: https://www.linkedin.com/nitin-kumar-626759131
+[linkedin]: https://www.linkedin.com/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/blackeagle.nitin
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797199
