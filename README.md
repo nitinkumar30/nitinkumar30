@@ -6,6 +6,9 @@
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nitin-kumar-626759131"><a class="LI-simple-link" href='https://in.linkedin.com/in/nitin-kumar-626759131?trk=profile-badge'>Nitin Kumar</a></div>
 
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nitin-kumar-626759131"><a class="LI-simple-link" href='https://in.linkedin.com/in/nitin-kumar-626759131?trk=profile-badge'>Nitin Kumar</a></div>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
