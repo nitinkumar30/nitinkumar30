@@ -44,7 +44,7 @@
 
 ### My projects other than in GitHub :technologist:
 
-* Client Website [Navi Advertising](https://naviadvertising.in)
+* Client Website [Navi Advertising](http://naviadvertising.in/)
 * [Self-made bot](https://code-sololearn.com/WBKTV8xLY81X/?ref=app)
 * My [Social Networking Site](http://nitsanon.epizy.com/?i=1) under construction :construction:
 
