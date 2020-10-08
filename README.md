@@ -46,7 +46,7 @@
 
 * Client Website [Navi Advertising](https://naviadvertising.in)
 * [Self-made bot](https://code-sololearn.com/WBKTV8xLY81X/?ref=app)
-* My [Social Networking Site](https://nitsanon.epizy.com) under construction :construction:
+* My [Social Networking Site](http://nitsanon.epizy.com/?i=1) under construction :construction:
 
 
 ![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=gruvbox&hide=prs,issues)
