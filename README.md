@@ -6,6 +6,11 @@
 
 <hr>
 
+### Connect in LinkedIn
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nitin30kumar"><a class="LI-simple-link" href='https://in.linkedin.com/in/nitin30kumar?trk=profile-badge'>Nitin Kumar</a></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
 > I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
