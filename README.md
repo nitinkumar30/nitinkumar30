@@ -8,6 +8,8 @@
 
 > I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact)](https://github.com/nitin30kumar)
 
 ### Contact Me :
