@@ -5,9 +5,6 @@
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
 <hr>
-<html><body>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6202a89b-3dde-4b8d-97c3-938fcabcdcc0" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-  </body></html>
 
 > I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
 
