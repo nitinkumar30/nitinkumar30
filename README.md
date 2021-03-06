@@ -6,6 +6,8 @@
 
 <hr>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6202a89b-3dde-4b8d-97c3-938fcabcdcc0" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 > I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
 
 <hr>
