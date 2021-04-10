@@ -4,6 +4,8 @@
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
+[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/automate-login-ignup-with-Python)
+
 <hr>
 
 > I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
