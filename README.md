@@ -4,7 +4,7 @@
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
-[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-ignup-with-Python)](https://github.com/nitin30kumar/automate-login-ignup-with-Python)
+[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
 
 <hr>
 
