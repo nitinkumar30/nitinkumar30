@@ -8,7 +8,7 @@
 
 [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio)](https://github.com/nitin30kumar/terminal-portfolio)
 
-[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automation-with-Python)
+[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=portfolio)](https://github.com/nitin30kumar/portfolio)
 
