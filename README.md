@@ -10,7 +10,8 @@
 
 <hr>
 
-> I'm a Full Stack Developer and Cyber Security Researcher . I'm passionate about sharing knowledge about new techs and Cyber Security .
+> I'm a Full Stack Developer and Cyber Security Researcher. I'm passionate about sharing knowledge about new techs and Cyber Security.  
+> Currently working as Analyst in TCS. Learning some amazing stuffs like automation, etc.
 
 <hr>
 
@@ -58,7 +59,7 @@
 ![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=gruvbox&hide=prs,issues)
 
 
-
+___
 
 [website]: https://bit.ly/kumarnitin
 [twitter]: https://twitter.com/nitinBlackEagle
