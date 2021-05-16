@@ -1,6 +1,8 @@
-<img src="https://img.shields.io/badge/Favourite%20Language-Python-blue.svg?style=for-the-badge" alt="favourite language">
+<img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language">
 
 <img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career">
+
+<img src="https://img.shields.io/badge/Currently%20Working-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career">
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
