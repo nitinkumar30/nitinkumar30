@@ -6,6 +6,8 @@
 
 [![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python)](https://github.com/nitin30kumar/data-structure-in-python)
 
+[![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio)](https://github.com/nitin30kumar/terminal-portfolio)
+
 [![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automation-with-Python)
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=portfolio)](https://github.com/nitin30kumar/portfolio)
