@@ -66,10 +66,10 @@
 ___
 
 [website]: https://bit.ly/kumarnitin
-[twitter]: https://twitter.com/nitinBlackEagle
+[twitter]: https://twitter.com/nitin30kr
 [linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
-[instagram]: https://instagram.com/blackeagle.nitin
+[instagram]: https://instagram.com/nitinkumar.py
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797199
 [telegram]: https://t.me/blackeagleanonymous
 [mta]: https://bit.ly/39NaCez
