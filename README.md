@@ -65,7 +65,7 @@
 
 ___
 
-[website]: https://bit.ly/kumarnitin
+[website]: https://nitin30kumar.github.io/portfolio/
 [twitter]: https://twitter.com/nitin30kr
 [linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
