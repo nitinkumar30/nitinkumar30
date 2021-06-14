@@ -78,15 +78,13 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 <!---------------------------------------------------------------------->
  
-<p> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" />
+<p><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" /></a>
 
-[![Data Structure in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=data-structure-in-python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/nitin30kumar/data-structure-in-python)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" />
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" /></a>
  
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" />
+<p align="right"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" /></a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" />
+<p align="left"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" /></a>
 <br><br>
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
