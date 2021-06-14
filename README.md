@@ -53,13 +53,13 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots" />
 </a>
 <a href="https://github.com/nitin30kumar/responsive-profile-cards">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards"/>
 </a>
 <a href="https://github.com/nitin30kumar/automate-login-signup-with-Python">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python"/>
 </a>
 <a href="https://github.com/nitin30kumar/text-editor-with-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=text-editor-with-python"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=text-editor-with-python"/>
 </a>
 </p>
 
