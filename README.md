@@ -71,11 +71,11 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 ## Some Of My Projects
  
-<div align="left">
+<div style="text-align: left;">
 [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots)
 </div>
 
-<div align="right">
+<div style="text-align: right;">
 [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio)](https://github.com/nitin30kumar/terminal-portfolio)  
 </div>
 
