@@ -3,10 +3,11 @@
 
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language" align="left">
 
-<img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career" align="right">
+<img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career" align="right">  
 
 <!-- <img src="https://img.shields.io/badge/Currently%20Working%20as-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career"> -->
 
+<br>
 <h1 align="center"> <a href="https://portfolio-nitin/netlify/app/" ><img src="Assets/Analyst.png" alt="about-nk"> </a></h1>
 
 <p align="center">
