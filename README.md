@@ -107,3 +107,13 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 </div>
 
 <br>
+___
+
+[website]: https://nitin30kumar.github.io/portfolio/
+[twitter]: https://twitter.com/nitin30kr
+[linkedin]: https://www.linkedin.com/in/nitin30kumar
+[stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
+[instagram]: https://instagram.com/nitinkumar.py
+[whatsapp]: https://api.whatsapp.com/send?phone=919113797199
+[telegram]: https://t.me/blackeagleanonymous
+[mta]: https://bit.ly/39NaCez
