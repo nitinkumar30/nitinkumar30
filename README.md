@@ -66,15 +66,15 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-## Some of my Projects
+## My favourite project
 
-[![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots)
+<!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots) -->
 
-[![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/terminal-portfolio)  
+<!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/terminal-portfolio) -->
 
 [![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
 
-[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/responsive-profile-cards)
+<!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/responsive-profile-cards) -->
 
 <!---------------------------------------------------------------------->
  
