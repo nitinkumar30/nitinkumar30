@@ -82,7 +82,7 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
-<div align="center">
+<p align="center">
  
 [<img align="left" alt="nitinkumar" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -98,13 +98,7 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 
 [<img align="left" alt="nitin-kumar | Telegram" height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<br />
- 
-
-</div>
-
-<br>
-___
+</p>
 
 [website]: https://nitin30kumar.github.io/portfolio/
 [twitter]: https://twitter.com/nitin30kr
