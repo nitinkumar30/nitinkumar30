@@ -10,6 +10,8 @@
 <br>
 <h1 align="center"> <a href="https://portfolio-nitin/netlify/app/" ><img src="Assets/Analyst.png" alt="about-nk"> </a></h1>
 
+## Introduction
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
@@ -31,13 +33,15 @@
 
 <p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
-### About Me
+## About Me
 
 I am working on my **Data Structures & Algorithms** and increasing my knowledge on **Python**. My interest lies in **Data Science**, **Artificial Intelligence** and **Machine Learning**.
 
 I have the **attitude** of a learner, the **courage** of an coder and the **thinking** of an hacker, engraved inside me. I wish to be a hacktivist in my community of people and have an *innate desire* to contribute to **country** and **society**.
 
 Currently, I'm working in one of the top MNCs of India as Analyst with **programming skills** along with **leadership and some hacking skills**.
+
+## Github Stats
 
 <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
 
@@ -54,7 +58,7 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/nitin30kumar?tab=repositories) -->
 
 
-### Languages and Tools:
+## Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
