@@ -74,7 +74,7 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 [![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
 
-[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards)](https://github.com/nitin30kumar/responsive-profile-cards)
+[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/responsive-profile-cards)
 
 <!---------------------------------------------------------------------->
  
