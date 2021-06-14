@@ -1,5 +1,5 @@
-<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
-<h1 align="center"> Welcome to my GitHub! 🤗</h1>
+<h1 align="center"> <img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
+ Welcome to my GitHub! 🤗</h1>
 
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language">
 
