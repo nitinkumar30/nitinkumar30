@@ -17,7 +17,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitin30kumar" alt="Nitin Kumar"/> </p>
 
--   🔭 I'm currently working at **[Tata Consultancy Services](tcs.com)**.
+-   🔭 I'm currently working at **[Tata Consultancy Services](https://www.tcs.com/)**.
 
 -   🌱 I'm currently learning _[Data Structures](https://github.com/nitin30kumar/data-structure-in-python)_ and how to **automate things** 💪.
    
