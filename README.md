@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 
-<h1 align="center"> <a href="https://nitin30kumar.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> 
+<!--<h1 align="center"> <a href="https://nitin30kumar.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> -->
  
  <br > Welcome to my GitHub! 🤗</h1>
 
