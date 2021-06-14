@@ -43,20 +43,13 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 ## Github Stats
 
-<p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+<p align="left"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
 
-<p align="center">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Github Streak Stats"></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin30kumar" alt="Github Streak Stats">
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitin30kumar" />
 
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true" alt="nitin30kumar" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Languag used" />
- 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/nitin30kumar?tab=repositories) -->
-
+<!-- <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Languag used" /> -->
 
 ## Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -67,35 +60,43 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-## Some Of My Projects
+## Some of my Projects
 
-[![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots)
+<!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots)
 
 [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio)](https://github.com/nitin30kumar/terminal-portfolio)  
 
 [![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
 
-[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards)](https://github.com/nitin30kumar/responsive-profile-cards)
+[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards)](https://github.com/nitin30kumar/responsive-profile-cards) -->
 
+<!---------------------------------------------------------------------->
+ 
+<p> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" />
+ 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" />
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" />
 <br><br>
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
 <p align="center">
  
-[<img align="left" alt="nitinkumar" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nitinkumar Portfolio" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="nitinBlackEagle | Twitter" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nitin30kr | Twitter" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="nitin30kumar | LinkedIn" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="blackeagle.nitin | Instagram" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nitinkumar.py | Instagram" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img align="left" alt="nitin-kumar | Stack Overflow" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
 
@@ -105,7 +106,7 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 </p>
 
-[website]: https://nitin30kumar.github.io/portfolio/
+[website]: https://portfolio-nitin.netlify.app
 [twitter]: https://twitter.com/nitin30kr
 [linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
