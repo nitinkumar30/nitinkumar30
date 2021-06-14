@@ -1,5 +1,11 @@
 <img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
 
+<img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language">
+
+<img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career">
+
+<img src="https://img.shields.io/badge/Currently%20Working%20as-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career">
+
 <!-- <h1 align="center"> <a href="https://nitin30kumar.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> -->
  
  <br > Welcome to my GitHub! 🤗</h1>
@@ -47,29 +53,55 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)
 
 
+### Languages and Tools:
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+
 ## Some Of My Projects
-<p align="center">
-<a href="https://github.com/nitin30kumar/auto-book-covid-vaccine-slots">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots" />
-</a>
-<a href="https://github.com/nitin30kumar/responsive-profile-cards">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards"/>
-</a>
-<!-- <a href="https://github.com/nitin30kumar/automate-login-signup-with-Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python"/>
-</a>
-<a href="https://github.com/nitin30kumar/text-editor-with-python">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=text-editor-with-python"/>
-</a> -->
-</p>
+ 
+[![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots)
+
+[![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio)](https://github.com/nitin30kumar/terminal-portfolio)
+
+[![Automation in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
+
+[![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards)](https://github.com/nitin30kumar/responsive-profile-cards)
 
 <br><br>
 
-## Connect with me<img src="Assets/Handshake.gif" height="32px">
+## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
 <div align="center">
+ 
+[<img align="left" alt="nitinkumar" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-| [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/nitin30kumar) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Twitter Logo" width="30">](https://twitter.com/@nitin30kr) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nitinkumar.py/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/nitin30kumar) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/black30Eagle) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nitinkumarpythonic@gmail.com) |
+[<img align="left" alt="nitinBlackEagle | Twitter" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="nitin30kumar | LinkedIn" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="blackeagle.nitin | Instagram" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="nitin-kumar | Stack Overflow" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
+
+[<img align="left" alt="nitin-kumar | WhatsApp" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+[<img align="left" alt="nitin-kumar | Telegram" height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<br />
+ 
+ 
+
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
