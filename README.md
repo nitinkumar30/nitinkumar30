@@ -50,7 +50,9 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true" alt="nitin30kumar" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Languag used" />
+ 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/nitin30kumar?tab=repositories) -->
 
 
 ### Languages and Tools:
