@@ -65,9 +65,9 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 
 <br><br>
 
-<div align="center">
-
 ## Connect with me<img src="Assets/Handshake.gif" height="32px">
+
+<div align="center">
 
 | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/nitin30kumar) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Twitter Logo" width="30">](https://twitter.com/@nitin30kr) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nitinkumar.py/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/nitin30kumar) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/black30Eagle) | [<img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nitinkumarpythonic@gmail.com) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
