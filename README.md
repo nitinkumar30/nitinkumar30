@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
- Welcome to my GitHub! 🤗</h1>
+ Welcome to my GitHub! 🤗 </h1>
 
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language" align="left">
 
@@ -17,9 +17,9 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitin30kumar" alt="Nitin Kumar"/> </p>
 
--   🔭 I'm currently working at **Tata Consultancy Services**.
+-   🔭 I'm currently working at **[Tata Consultancy Services](tcs.com)**.
 
--   🌱 I'm currently learning _Data Structures_ and how to **automate things** 💪.
+-   🌱 I'm currently learning _[Data Structures](https://github.com/nitin30kumar/data-structure-in-python)_ and how to **automate things** 💪.
    
 -   👯 I'm looking to collaborate on **Open Sourced** Projects on _Python_ 🐍 related Projects.
    
@@ -27,7 +27,7 @@
 
 -   💬 Ask me about **anything**, **anytime**!
 
--   ⚡ Fun fact: If you like me, you need space. 'Coz I code in python.
+-   ⚡ Fun fact: If you like me, you need space. 'Coz I code in [python](python.org).
 
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [here](https://wa.me/919113797199?text=Hi%20Nitin.).
 
