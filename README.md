@@ -36,7 +36,7 @@ I am working on my **Data Structures & Algorithms** and increasing my knowledge 
 
 I have the **attitude** of a learner, the **courage** of an coder and the **thinking** of an hacker, engraved inside me. I wish to be a hacktivist in my community of people and have an *innate desire* to contribute to **country** and **society**.
 
-Currently, an Analyst in one of the top MNCs of India as individual with **programming skills** along with **leadership and some hacking skills**.
+Currently, I'm working in one of the top MNCs of India as Analyst with **programming skills** along with **leadership and some hacking skills**.
 
 <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
 
