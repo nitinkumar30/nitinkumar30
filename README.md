@@ -7,6 +7,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Currently%20Working%20as-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career"> -->
 
+<br>  
 <br>
 <h1 align="center"> <a href="https://portfolio-nitin/netlify/app/" ><img src="Assets/Analyst.png" alt="about-nk"> </a></h1>
 
