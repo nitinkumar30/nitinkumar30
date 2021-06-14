@@ -38,8 +38,6 @@ Currently, an Analyst in one of the top MNCs of India as individual with **progr
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/nitin30kumar" alt="Github Metrics">
-
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin30kumar" alt="Github Streak Stats"> -->
 
 </p>
