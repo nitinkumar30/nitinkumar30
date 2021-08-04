@@ -10,7 +10,7 @@ Welcome to my GitHub! 🤗 </h1>
 <br>  
 <br>
 <!--<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/black eagle (1).gif" alt="about-nk"> </a></h1> -->
-<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/black-eagle-_2_.gif" alt="about-nk"> </a></h1>
+<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/back_cover_linkedin.gif" alt="about-nk"> </a></h1>
 
 ## Introduction
 
