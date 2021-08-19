@@ -109,7 +109,7 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 </p>
 
 [website]: https://portfolio-nitin.netlify.app
-[twitter]: https://twitter.com/nitin30kr
+[twitter]: https://twitter.com/nitinkr30
 [linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/nitinkumar.py
