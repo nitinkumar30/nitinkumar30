@@ -33,6 +33,11 @@ Welcome to my GitHub! 🤗 </h1>
 
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [here](https://wa.me/919113797199?text=Hi%20Nitin.).
 
+<div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
+</div>
 <p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
 ## About Me
@@ -45,27 +50,121 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 
 ## Github Stats
 
-<p align="left"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+<a href="https://github.com/nitin30kumar">
+  <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
+</a>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="Github Streak Stats"></p>
+<p align="right"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+<br><br>
+<div align="left">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitin30kumar&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)
+
+</div>
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitin30kumar" />
 
 <!-- <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Languag used" /> -->
 
-## Languages and Tools
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<!-- LANGUAGE AND TOOLS ARE COMMENTED FOR NEW DESIGN -->
 
+[comment]: <> (## Languages and Tools)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>)
+
+[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>)
+
+[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>)
+
+[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>)
+
+[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>)
+
+[comment]: <> (<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>)
+
+[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>)
+
+<!-- ------------------------------------------------ --> 
+
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=R&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Design-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Design-SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Design-Canva-informational?style=for-the-badge&logo=canva&logoColor=white&color=orange)
+
+<br>
+
+![](https://img.shields.io/badge/Framework-Pytest-informational?style=for-the-badge&logo=pytest&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Framework-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=brown)
+
+<br>
+
+![](https://img.shields.io/badge/Cyber%20Security-tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cyber%20Security-DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=blue)
+
+<br>
+
+![](https://img.shields.io/badge/Test-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=darkblue)
+
+<br>
+
+![](https://img.shields.io/badge/OS-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black)
+![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white&color=black)
+![](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black)
+
+<br>
+
+![](https://img.shields.io/badge/Database-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=green)
+![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=green)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=green)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-JIRA-informational?style=for-the-badge&logo=jira&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=for-the-badge&logo=Jira-Software&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Netbeans-informational?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=darkviolet)
+
+</details>
+
+<br>
+
+<!-- ----------------- END OF SKILLS SECTION -------------------------- -->  
 
 ## My favourite project
 
