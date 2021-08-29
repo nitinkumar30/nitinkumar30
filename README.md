@@ -37,9 +37,9 @@ Welcome to my GitHub! 🤗 </h1>
 <p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
 <div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
+<img href="https://github.com/nitin30kumar/" alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
+<img href="https://twitter.com/nitinkr30/" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
 </div>
 ## About Me
 
