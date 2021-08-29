@@ -41,6 +41,7 @@ Welcome to my GitHub! 🤗 </h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img href="https://twitter.com/nitinkr30/" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
 </div>
+
 ## About Me
 
 I am working on my **Data Structures & Algorithms** and increasing my knowledge on **Python**. My interest lies in **Data Science**, **Artificial Intelligence** and **Machine Learning**.
