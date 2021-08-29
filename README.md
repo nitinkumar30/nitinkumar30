@@ -53,9 +53,9 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 <a href="https://github.com/nitin30kumar">
   <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
 </a>
-
+<br>
 <p align="right"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
-<br><br>
+
 <div align="left">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitin30kumar&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)
