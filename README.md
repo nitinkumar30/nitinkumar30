@@ -31,7 +31,7 @@ Welcome to my GitHub! 🤗 </h1>
 
 -   ⚡ Fun fact: If you like me, you need space. 'Coz I code in [python](python.org).
 
--   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [here](https://wa.me/919113797199?text=Hi%20Nitin.).
+-   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [WhatsApp](https://wa.me/919113797199?text=Hi%20Nitin.).
 
 <div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
