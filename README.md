@@ -33,13 +33,14 @@ Welcome to my GitHub! 🤗 </h1>
 
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [WhatsApp](https://wa.me/919113797199?text=Hi%20Nitin.).
 
+
+<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
+
 <div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
 </div>
-<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
-
 ## About Me
 
 I am working on my **Data Structures & Algorithms** and increasing my knowledge on **Python**. My interest lies in **Data Science**, **Artificial Intelligence** and **Machine Learning**.
