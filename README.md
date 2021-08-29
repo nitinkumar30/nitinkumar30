@@ -62,7 +62,7 @@ Currently, I'm working in one of the top MNCs of India as Analyst with **program
 </div>
 
 <div href="https://github.com/nitin30kumar">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitin30kumar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitin30kumar" />
 </div>
 
 <br><br>
