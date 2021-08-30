@@ -48,7 +48,7 @@ I am working on my **Data Structures & Algorithms** and increasing my knowledge 
 
 I have the **attitude** of a learner, the **courage** of an coder and the **thinking** of an hacker, engraved inside me. I wish to be a hacktivist in my community of people and have an *innate desire* to contribute to **country** and **society**.
 
-Currently, I'm working in one of the top MNCs of India as Analyst with **programming skills** along with **leadership and some hacking skills**.
+Currently, I'm working in one of the top MNCs of World as Analyst with **programming skills** along with **leadership and some hacking skills**.
 
 ## Github Stats
 
