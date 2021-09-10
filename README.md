@@ -53,9 +53,9 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 ## Github Stats
 
 
-<div href="https://github.com/nitin30kumar/github-readme-stats">
+<!-- <div href="https://github.com/nitin30kumar/github-readme-stats">
   <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
-<div/>
+<div/> -->
 
 
 <div href="https://github.com/nitin30kumar">
