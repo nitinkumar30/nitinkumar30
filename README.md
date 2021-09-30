@@ -196,11 +196,11 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
  
 [<img align="left" alt="nitinkumar Portfolio" height="45" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="nitin30kr | Twitter" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nitinkumar30 | Twitter" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="nitin30kumar | LinkedIn" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nitinkumar30 | LinkedIn" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="nitinkumar.py | Instagram" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nitinkumar30.py | Instagram" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img align="left" alt="nitin-kumar | Stack Overflow" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
 
@@ -211,10 +211,10 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 </p>
 
 [website]: https://portfolio-nitin.netlify.app
-[twitter]: https://twitter.com/nitinkr30
-[linkedin]: https://www.linkedin.com/in/nitin30kumar
+[twitter]: https://twitter.com/nitinkumar30
+[linkedin]: https://www.linkedin.com/in/nitinkumar30
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
-[instagram]: https://instagram.com/nitinkumar.py
+[instagram]: https://instagram.com/nitinkumar30.py
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797199
 [telegram]: https://t.me/blackeagleanonymous
 [mta]: https://bit.ly/39NaCez
