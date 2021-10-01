@@ -192,6 +192,9 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
+![Nitin Kumar](https://user-images.githubusercontent.com/40369168/135685460-08fb9454-e6e9-45c0-9317-ba1ec6c11250.png)
+
+
 <p align="center">
  
 [<img align="left" alt="nitinkumar Portfolio" height="45" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
