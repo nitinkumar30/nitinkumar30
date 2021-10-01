@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/nitin30kumar/nitin30kumar/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
+<h1 align="center"> <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
 Welcome to my GitHub! 🤗 </h1>
 
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language" align="left">  
@@ -17,11 +17,11 @@ Welcome to my GitHub! 🤗 </h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitin30kumar" alt="Nitin Kumar"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinkumar30" alt="Nitin Kumar"/> </p>
 
 -   🔭 I'm currently working at **[Tata Consultancy Services](https://www.tcs.com/)**.
 
--   🌱 I'm currently learning _[Data Structures](https://github.com/nitin30kumar/data-structure-in-python)_ and how to **automate things** 💪.
+-   🌱 I'm currently learning _[Data Structures](https://github.com/nitinkumar30/data-structure-in-python)_ and how to **automate things** 💪.
    
 -   👯 I'm looking to collaborate on **Open Sourced** Projects on _Python_ 🐍 related Projects.
    
@@ -37,7 +37,7 @@ Welcome to my GitHub! 🤗 </h1>
 <p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
 <div align="center">
-<img href="https://github.com/nitin30kumar/" alt="GitHub followers" src="https://img.shields.io/github/followers/nitin30kumar?logo=github&logoColor=black&style=social">
+<img href="https://github.com/nitinkumar30/" alt="GitHub followers" src="https://img.shields.io/github/followers/nitinkumar30?logo=github&logoColor=black&style=social">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img href="https://twitter.com/nitinkr30/" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkr30?style=social">
 </div>
@@ -53,19 +53,19 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 ## Github Stats
 
 
-<!-- <div href="https://github.com/nitin30kumar/github-readme-stats">
-  <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin30kumar&layout=compact&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
+<!-- <div href="https://github.com/nitinkumar30/github-readme-stats">
+  <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar30&layout=compact&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
 <div/> -->
 
 
-<div href="https://github.com/nitin30kumar">
- <img align="center" style="margin:.5rem" src="http://github-readme-streak-stats.herokuapp.com?user=nitin30kumar&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27" />
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitin30kumar&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)-->
+<div href="https://github.com/nitinkumar30">
+ <img align="center" style="margin:.5rem" src="http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27" />
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)-->
 <br><br>
 </div>
 
-<div href="https://github.com/nitin30kumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin30kumar&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitin30kumar" />
+<div href="https://github.com/nitinkumar30">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitinkumar30" />
 </div>
 
 <br>
@@ -171,23 +171,23 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 ## My favourite project
 
-<!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots) -->
+<!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/auto-book-covid-vaccine-slots) -->
 
-<!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/terminal-portfolio) -->
+<!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/terminal-portfolio) -->
 
-[![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/automate-login-signup-with-Python)
+[![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/automate-login-signup-with-Python)
 
-<!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitin30kumar/responsive-profile-cards) -->
+<!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
 
 <!---------------------------------------------------------------------->
  
-<!-- <p><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" /></a>
+<!-- <p><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" /></a>
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" /></a>
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" /></a>
  
-<p align="right"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" /></a>
+<p align="right"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" /></a>
 
-<p align="left"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin30kumar&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" /></a>
+<p align="left"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" /></a>
 <br><br> -->
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
