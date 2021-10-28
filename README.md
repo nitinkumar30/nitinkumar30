@@ -57,16 +57,19 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
   <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar30&layout=compact&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
 <div/> -->
 
-
+<!-- 
 <div href="https://github.com/nitinkumar30">
  <img align="center" style="margin:.5rem" src="http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27" />
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)-->
-<br><br>
+
 </div>
 
-<div href="https://github.com/nitinkumar30">
+<!-- <div href="https://github.com/nitinkumar30">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitinkumar30" />
-</div>
+</div> -->
+
+|![](http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)|![](https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)|
+|-|-|
 
 <br>
 <!-- LANGUAGE AND TOOLS ARE COMMENTED FOR NEW DESIGN -->
@@ -96,7 +99,13 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 [comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>)
 
 
+<p align="center">
+
 <img width="500" src="https://metrics.lecoq.io/nitinkumar30" alt="Github Metrics">
+
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
 
 
 <!-- ------------------------------------------------ --> 
