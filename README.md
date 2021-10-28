@@ -95,6 +95,10 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 [comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>)
 
+
+<img width="500" src="https://metrics.lecoq.io/nitinkumar30" alt="Github Metrics">
+
+
 <!-- ------------------------------------------------ --> 
 
 
