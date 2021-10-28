@@ -105,7 +105,7 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=nitinkumar30&theme=redical)
 
 
 <!-- ------------------------------------------------ --> 
