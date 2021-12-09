@@ -5,6 +5,7 @@ Welcome to my GitHub! 🤗 </h1>
 
 <img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career" align="right">  
 
+
 <!-- <img src="https://img.shields.io/badge/Currently%20Working%20as-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career"> -->
   
 <br>  
@@ -208,6 +209,8 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 <p align="left"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" /></a>
 <br><br> -->
+
+**Liked my projects? [Nominate me for Github stars](https://stars.github.com/nominate/)**
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
