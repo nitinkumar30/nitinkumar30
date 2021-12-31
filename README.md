@@ -1,5 +1,7 @@
 <h1 align="center"> <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
-Welcome to my GitHub! 🤗 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hello+Githubers+in+my+account.;My+name+is+Nitin+Kumar+%5BPythonic%5D.;Interested+in+%5BDS%5D+and+%5BPython%5D.;Working+on+ML+%26+Data+Science+too.)](https://git.io/typing-svg)
+  
+  🤗 </h1>
 
 <img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language" align="left">  
 
