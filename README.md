@@ -30,7 +30,7 @@
 
 -   💬 Ask me about **anything**, **anytime**!
 
--   ⚡ Fun fact: If you like me, you need space. 'Coz I code in [python](python.org).
+-   ⚡ Fun fact: If you like me, you need space. 'Coz I code in [python](https://python.org).
 
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumarpythonic@gmail.com">Email</a> or [WhatsApp](https://wa.me/919113797199?text=Hi%20Nitin.).
 
