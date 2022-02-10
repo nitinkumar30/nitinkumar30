@@ -189,7 +189,7 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 <!-- ----------------- END OF SKILLS SECTION -------------------------- -->  
 
-## My favourite project
+## My favourite projects  
 
 <!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/auto-book-covid-vaccine-slots) -->
 
@@ -198,6 +198,8 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 [![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/automate-login-signup-with-Python)
 
 <!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
+
+[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=keylogger&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/keylogger)
 
 <!---------------------------------------------------------------------->
  
