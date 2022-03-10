@@ -13,6 +13,10 @@
 <!--<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/black eagle (1).gif" alt="about-nk"> </a></h1> -->
 <h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/back_cover_linkedin.gif" alt="about-nk"> </a></h1>
 
+<center>
+  <img src="https://count.getloli.com/get/@:nitinkumar30?theme=rule34" alt="Nitin Kumar" align="center" />
+</center>
+
 ## Introduction
 
 <p align="center">
