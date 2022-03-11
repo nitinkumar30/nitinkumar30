@@ -13,9 +13,8 @@
 <!--<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/black eagle (1).gif" alt="about-nk"> </a></h1> -->
 <h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/back_cover_linkedin.gif" alt="about-nk"> </a></h1>
 
-<center>
-  <img src="https://count.getloli.com/get/@:nitinkumar30?theme=rule34" alt="Nitin Kumar" align="center" />
-</center>
+|![:name](https://count.getloli.com/get/@:nitinkumar30?theme='rule34')|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&redirect=true)|
+|-|-|
 
 ## Introduction
 
