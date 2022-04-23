@@ -246,7 +246,7 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 [website]: https://portfolio-nitin.netlify.app
 [twitter]: https://twitter.com/nitinkumar30
-[linkedin]: https://www.linkedin.com/in/nitinkumar30
+[linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/nitinkumar30.py
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797199
