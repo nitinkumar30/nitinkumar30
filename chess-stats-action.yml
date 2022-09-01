@@ -1,3 +1,7 @@
+- name: Chess.com Games & Stats
+  uses: Balastrong/chess-stats-action@v2
+
+
 name: Chess Games & Stats Action
 
 on:
