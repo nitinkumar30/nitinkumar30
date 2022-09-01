@@ -16,6 +16,11 @@
 |![:name](https://count.getloli.com/get/@:nitinkumar30?theme='rule34')|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&redirect=true)|
 |-|-|
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
+
 ## Introduction
 
 <p align="center">
