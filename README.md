@@ -224,7 +224,8 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 ## Connect with me <img src="Assets/Handshake.gif" height="32px">
 
-![Nitin Kumar](https://user-images.githubusercontent.com/40369168/135685460-08fb9454-e6e9-45c0-9317-ba1ec6c11250.png)
+![Nitin's business card](https://user-images.githubusercontent.com/40369168/189452035-883c2056-e543-4857-8ff0-824e4548105a.png)
+
 
 
 <p align="center">
