@@ -123,6 +123,10 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 ![](https://activity-graph.herokuapp.com/graph?username=nitinkumar30&theme=redical)
 
 ![](https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/github-user-contribution.svg)
+
+## Badges earned :name_badge:
+
+[![@nitinkumar30's Holopin board](https://holopin.io/api/user/board?user=nitinkumar30)](https://holopin.io/@nitinkumar30)
 <!-- ------------------------------------------------ --> 
 
 
@@ -199,15 +203,17 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 
 ## My favourite projects  
 
+<center>
 <!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/auto-book-covid-vaccine-slots) -->
 
 <!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/terminal-portfolio) -->
 
-[![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/automate-login-signup-with-Python)
+|[![Automation login in Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/automate-login-signup-with-Python)|[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=keylogger&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/keylogger)|
+|-|-|
 
 <!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
 
-[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=keylogger&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/keylogger)
+</center>
 
 <!---------------------------------------------------------------------->
  
@@ -250,11 +256,12 @@ Currently, I'm working in one of the top MNCs of World as Analyst with **program
 <a href="https://www.buymeacoffee.com/nitinkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-[website]: https://portfolio-nitin.netlify.app
+<!--[website]: https://portfolio-nitin.netlify.app -->
+[website]: https://nitin-kr.onrender.com
 [twitter]: https://twitter.com/nitinkumar30
 [linkedin]: https://www.linkedin.com/in/nitin30kumar
 [stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
 [instagram]: https://instagram.com/nitinkumar30.py
 [whatsapp]: https://api.whatsapp.com/send?phone=919113797199
-[telegram]: https://t.me/blackeagleanonymous
+[telegram]: https://t.me/nitin30kumar
 [mta]: https://bit.ly/39NaCez
