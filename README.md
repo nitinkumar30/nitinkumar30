@@ -217,8 +217,6 @@ Currently, I'm working in one of the top MNCs of World as Senior Software Engine
 
 <!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
 <!----------------- WRITING CLEAN CODE ------------------->
-## My favourite projects
-
 <table>
   <tr>
     <td>
