@@ -210,12 +210,41 @@ Currently, I'm working in one of the top MNCs of World as Senior Software Engine
 <!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/auto-book-covid-vaccine-slots) -->
 
 <!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/pytest_with_githubActions) -->
-|
-[![automate-item-order-in-meesho](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-item-order-in-meesho&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([[https://github.com/nitinkumar30/automate-item-order-in-meesho](https://github.com/nitinkumar30/automate-item-order-in-meesho)](https://github.com/nitinkumar30/automate-item-order-in-meesho))|[![Create Ransomware using Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/keylogger](https://github.com/nitinkumar30/ransomware-using-python))|
+
+<!-- [![automate-item-order-in-meesho](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-item-order-in-meesho&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([[https://github.com/nitinkumar30/automate-item-order-in-meesho](https://github.com/nitinkumar30/automate-item-order-in-meesho)](https://github.com/nitinkumar30/automate-item-order-in-meesho))|[![Create Ransomware using Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/keylogger](https://github.com/nitinkumar30/ransomware-using-python))|
 [![pytest_with_githubActions](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/pytest_with_githubActions](https://github.com/nitinkumar30/pytest_with_githubActions))|[![automate-investing-website](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/automate-investing-website](https://github.com/nitinkumar30/automate-investing-website))|
-|-|-|
+|-|-| -->
 
 <!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
+<!----------------- WRITING CLEAN CODE ------------------->
+## My favourite projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nitinkumar30/automate-item-order-in-meesho">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-item-order-in-meesho&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitinkumar30/ransomware-using-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nitinkumar30/pytest_with_githubActions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitinkumar30/automate-investing-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </center>
 
