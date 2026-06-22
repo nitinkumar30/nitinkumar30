@@ -15,11 +15,11 @@
   <a href="https://pypi.org/user/nitinkumar30/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nitinkumar30"><img src="https://img.shields.io/github/followers/nitinkumar30?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/nitinkumar30"><img src="https://img.shields.io/github/stars/nitinkumar30?label=Stars&style=social" alt="GitHub stars"></a>
-  <a href="https://komarev.com/ghpvc/?username=nitinkumar30"><img src="https://komarev.com/ghpvc/?username=nitinkumar30&label=Profile+Visits&color=00FFAA&style=flat-square" alt="Profile Views"></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitinkumar30&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/nitinkumar30?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/nitinkumar30?style=social" alt="GitHub stars">
+</div>
 
 <br>
 
@@ -29,41 +29,6 @@
   </a>
 </p>
 
-```yaml
-
-name: Nitin S Kumar
-located_in: Pune, Maharashtra, India
-current_job: Senior Automation Engineer
-company: Happiest Minds Technologies
-
-education:
-  [
-    "MCA - Arka Jain University (2021-2023)",
-    "BCA - Arka Jain University (2017-2020)"
-  ]
-
-fields_of_interests:
-  [
-    "Python Automation",
-    "Selenium & Playwright Testing",
-    "AI & LLMs",
-    "Cyber Security",
-    "Data Science",
-    "Open Source"
-  ]
-
-technical_background:
-  [
-    "Senior Automation Engineer @ Happiest Minds (Current)",
-    "System Engineer @ TCS (2020-2024)",
-    "Freelance Web Developer (2019-2020)"
-  ]
-
-currently_learning: ["AI Agents", "Agentic Automation", "Advanced Cybersecurity"]
-2026_goal: ["Ship more open source tools", "Contribute to AI automation frameworks"]
-fun_fact: "If you like me, you need space. 'Coz I code in Python."
-```
-
 <br>
 
 ## <img src="Assets/Handshake.gif" width="28px" height="28px"> About Me
@@ -72,18 +37,19 @@ fun_fact: "If you like me, you need space. 'Coz I code in Python."
   <tr>
     <td width="60%">
       <p>
-        <strong>Senior Automation Engineer</strong> with <strong>5+ years</strong> of experience
-        building robust automation frameworks, driving quality excellence, and delivering high-impact
-        solutions at scale. 200+ projects delivered, 30+ certifications, and an insatiable curiosity
-        for AI, automation, and cybersecurity.
+        <strong>Senior Automation Engineer</strong> at <a href="https://www.happiestminds.com/">Happiest Minds Technologies</a> 
+        with <strong>5+ years</strong> of experience in building robust automation frameworks, 
+        driving quality excellence, and delivering high-impact solutions.
       </p>
+
       <ul>
-        <li>🔭 Currently at <a href="https://www.happiestminds.com/">Happiest Minds Technologies</a> — PDES department</li>
-        <li>🌱 Diving deep into <strong>AI Agents, LLMs & Agentic Automation</strong></li>
+        <li>🔭 Currently building automation frameworks with <strong>Python & Selenium</strong></li>
+        <li>🌱 Diving deep into <strong>AI, LLMs & Agentic Automation</strong></li>
         <li>👯 Open to collaborate on <strong>Open Source Python projects</strong></li>
-        <li>💬 Ask me about <strong>Automation, Python, Testing, AI, or Cyber Security</strong></li>
+        <li>💬 Ask me about <strong>Automation, Python, Testing, or Cyber Security</strong></li>
         <li>⚡ Previously at <a href="https://www.tcs.com/">Tata Consultancy Services</a> (2020-2024)</li>
         <li>📫 Reach me at <a href="mailto:nitinkumar30.py@gmail.com">nitinkumar30.py@gmail.com</a></li>
+        <li>🧠 <strong>200+ projects delivered</strong> | <strong>30+ certifications</strong> | <strong>160+ GitHub stars</strong></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -94,47 +60,81 @@ fun_fact: "If you like me, you need space. 'Coz I code in Python."
 
 <br>
 
-## 🛠️ Tech Stack
+## My Arsenal
 
-```javascript
-const nitin = {
-  pronouns: "he/him",
-  code: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C", "PHP", "Go", "R", "Swift"],
-  automation: {
-    frameworks: ["Selenium", "Playwright", "Pytest", "Behave", "n8n"],
-    ci_cd: ["GitHub Actions", "Docker", "Jenkins"],
-    testing: ["API Testing", "Functional", "Regression", "BDD"],
-    tools: ["Postman", "JIRA", "Allure"]
-  },
-  ai_llm: {
-    tools: ["ChatGPT", "Claude", "Gemini", "GitHub Copilot", "DeepSeek"],
-    skills: ["Prompt Engineering", "AI Workflow Design", "Vibe Coding", "Agentic Systems"]
-  },
-  web: {
-    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind", "Bootstrap"],
-    backend: ["Flask", "Node.js", "REST APIs"]
-  },
-  data_science: {
-    libraries: ["Pandas", "NumPy", "Matplotlib"],
-    skills: ["Data Analysis", "Data Visualization", "Machine Learning"]
-  },
-  cybersecurity: {
-    tools: ["Kali Linux", "Wireshark", "BadUSB"],
-    skills: ["OSINT", "Network Analysis", "Ethical Hacking", "VAPT"]
-  },
-  databases: ["MySQL", "SQLite", "MS SQL Server"],
-  cloud: ["GCP", "Netlify", "Vercel"],
-  os: ["Windows", "Ubuntu", "Kali Linux", "Android"],
-  currentFocus: "Building AI-powered automation frameworks",
-  funFact: "I automate everything — even my coffee machine... almost."
-};
-```
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
 
-<br>
+### 🤖 Automation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-## 🎧 Now Vibing To
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
-[![Spotify](https://novatorem-bice-gamma.vercel.app/api/spotify?background_color=0d1117&border_color=30363d)](https://open.spotify.com/user/xv8g2cyk6u3z284ipqkrfpb8n)
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+### 🔐 Cybersecurity & AI
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT-3DDC84?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-2B5DE9?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+</p>
 
 <br>
 
@@ -161,39 +161,34 @@ const nitin = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar30&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&custom_title=Nitin's%20Contribution%20Graph" alt="Activity Graph">
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinkumar30&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies">
+</div>
+
 <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/github-user-contribution.svg" alt="Contribution Snake" width="100%">
-
-<details>
-  <summary><strong>📈 More Stats</strong></summary>
-  <br>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkumar30&theme=github_dark" alt="Profile Details">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitinkumar30&theme=github_dark" alt="Repos per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitinkumar30&theme=github_dark" alt="Most Commit Language">
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  <img src="https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&notable=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics">
-
-</details>
 
 <br>
 
-## 🔄 Recent GitHub Activity
+## 📈 Daily.dev & Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://app.daily.dev/nitinkumar30">
+        <img src="https://api.daily.dev/devcards/1a60dace3b1f406b9c483c64d0cecfd5.png?r=3b4" width="360" alt="Nitin's Dev Card">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&notable=1&rss=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Badges & Holopin
+
+[![@nitinkumar30's Holopin board](https://holopin.io/api/user/board?user=nitinkumar30)](https://holopin.io/@nitinkumar30)
 
 <br>
 
@@ -238,13 +233,13 @@ const nitin = {
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/nitinkumar30/pyshrink-vscode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pyshrink-vscode&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      <a href="https://github.com/nitinkumar30/pytest_with_githubActions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/nitinkumar30/phonetracer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=phonetracer&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      <a href="https://github.com/nitinkumar30/automate-investing-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
       </a>
     </td>
   </tr>
@@ -255,14 +250,6 @@ const nitin = {
     <img src="https://img.shields.io/badge/%E2%AD%90-Nominate%20me%20for%20GitHub%20Stars-FFD700?style=for-the-badge" alt="Nominate for GitHub Stars">
   </p>
 </a>
-
-<br>
-
-## ⌨️ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-**I'm an Automation Engineer who codes mostly in Python 🐍**
-<!--END_SECTION:waka-->
 
 <br>
 
@@ -284,48 +271,51 @@ const nitin = {
 
 <br>
 
-## 💬 What People Say
+## 🎯 Fun Zone
 
 <details>
-  <summary><strong>Testimonials & Recommendations</strong></summary>
+  <summary><strong>😂 Random Dev Joke</strong></summary>
   <br>
+  <a href="https://readme-jokes.vercel.app">
+    <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300FFAA&aColor=%2300FFAA&borderColor=%2330363d" alt="README Jokes">
+  </a>
+</details>
 
-  > "I had the pleasure of working with Nitin on Morrisons Ordering Automation Project where their expertise in Test Automation proved invaluable. He has consistently demonstrated a deep understanding of both functional and automated testing frameworks..."
-  >
-  > **— Tanmoy Bhattacharya**, Solution Architect at Databricks
+<details>
+  <summary><strong>💭 Random Dev Quote</strong></summary>
+  <br>
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
+  </a>
+</details>
 
-  > "I recommend Nitin for his exceptional skills in Automation, his dedication to learn new technologies and his ability. Nitin's strong work ethic and collaborative nature make him a valuable asset to any team."
-  >
-  > **— Mayuri Kolhe**, SDET at Bridgenext
-
-  > "I had the pleasure of working under Nitin Kumar during my internship at Happiest Minds Technologies. His guidance and support were invaluable in enhancing my practical knowledge and skills."
-  >
-  > **— Vasudha Agarwal**, BCG
-
-  > "He was really good at learning technical topics rapidly especially related to Python Languages like Data Science, Automation, etc. He's now diving into the Automation field which is helping him to add many more projects."
-  >
-  > **— Saurabh Sanap**, Software Developer at Infosys
+<details>
+  <summary><strong>🎮 Chess.com Stats</strong></summary>
+  <br>
+  
+  <!--START_SECTION:chessStats-->
+  <!--END_SECTION:chessStats-->
 
 </details>
 
 <br>
 
-## 🏅 Achievements
+## 💼 Featured Publications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/5%2B-Years%20Active-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/200%2B-Projects%20Delivered-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/30%2B-Certifications-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/160%2B-GitHub%20Stars-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/227-Public%20Repos-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/8K%2B-Total%20Commits-00FFAA?style=for-the-badge">
-</p>
-
-<br>
-
-## 🏆 Holopin Badges
-
-[![@nitinkumar30's Holopin board](https://holopin.io/api/user/board?user=nitinkumar30)](https://holopin.io/@nitinkumar30)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nitinkumar30/pyshrink-vscode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pyshrink-vscode&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitinkumar30/phonetracer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=phonetracer&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -353,7 +343,7 @@ const nitin = {
 <p align="center">
   <i>"Building the future with Python, AI, and an unhealthy amount of caffeine."</i>
   <br><br>
-  <img alt="Made with love" src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Nitin%20S%20Kumar-00FFAA?style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Nitin%20S%20Kumar-00FFAA?style=flat-square" alt="Made with love">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinkumar30&color=00FFAA&style=flat-square&label=Profile+Views)
