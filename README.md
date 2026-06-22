@@ -161,28 +161,60 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar30&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&custom_title=Nitin's%20Contribution%20Graph" alt="Activity Graph">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinkumar30&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies">
-</div>
-
 <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/github-user-contribution.svg" alt="Contribution Snake" width="100%">
+
+<details>
+  <summary><strong>📈 More Stats</strong></summary>
+  <br>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkumar30&theme=github_dark" alt="Profile Details">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitinkumar30&theme=github_dark" alt="Repos per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitinkumar30&theme=github_dark" alt="Most Commit Language">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitinkumar30&theme=github_dark" alt="Stats">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitinkumar30&theme=github_dark&utcOffset=5.5" alt="Productive Time">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  <img src="https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&notable=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics">
+
+</details>
 
 <br>
 
-## 📈 Daily.dev & Activity
+## 🏅 Achievements at a Glance
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://app.daily.dev/nitinkumar30">
-        <img src="https://api.daily.dev/devcards/1a60dace3b1f406b9c483c64d0cecfd5.png?r=3b4" width="360" alt="Nitin's Dev Card">
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&notable=1&rss=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/5%2B-Years%20of%20Experience-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/200%2B-Projects%20Delivered-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/30%2B-Certifications-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/160%2B-GitHub%20Stars-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/227-Public%20Repos-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/5%2B-Awards-00FFAA?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/10K%2B-GitHub%20Contributions-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/8K%2B-Total%20Commits-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/48-Weeks%20Active-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/6.4-Avg%20Contributions/Day-00FFAA?style=for-the-badge">
+</p>
 
 <br>
 
@@ -290,12 +322,17 @@
 </details>
 
 <details>
-  <summary><strong>🎮 Chess.com Stats</strong></summary>
+  <summary><strong>🌀 Code Cycle</strong></summary>
   <br>
-  
-  <!--START_SECTION:chessStats-->
-  <!--END_SECTION:chessStats-->
-
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="But how?">
+    <br>
+    <em>Debug → Fix → Ship → Repeat</em>
+  </p>
 </details>
 
 <br>
