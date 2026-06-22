@@ -60,7 +60,17 @@
 
 <br>
 
-## My Arsenal
+<pre align="center">
+    💼 Senior Automation Engineer @ Happiest Minds Technologies
+    🎓 MCA — Arka Jain University • BCA — Arka Jain University  
+    💻 Python  •  Selenium  •  AI Agents  •  Cyber Security
+    📚 Learning: Agentic Automation  •  LLMs  •  Advanced Pentesting
+    🎯 2026: Ship more open source tools
+</pre>
+
+<br>
+
+## `𝗠𝘆 𝗔𝗿𝘀𝗲𝗻𝗮𝗹`
 
 ### 👨‍💻 Programming Languages
 <p>
@@ -375,6 +385,14 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="8%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hands/Folded%20Hands.png" width="8%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="8%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="8%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="8%">
+</div>
+
 ---
 
 <p align="center">
@@ -384,3 +402,4 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinkumar30&color=00FFAA&style=flat-square&label=Profile+Views)
+![](https://profile-counter.glitch.me/nitinkumar30/count.svg)
