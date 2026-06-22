@@ -1,298 +1,349 @@
-<h1 align="center"> <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+dear+Githubers+...;My+name+is+Nitin+!;I'm+Pythonic+into+Automation+!;Interested+in+Cyber+Security+too+!" alt="Typing SVG" /> </h1>
 
-<img src="https://img.shields.io/badge/Favourite%20Language-Python-green.svg?style=for-the-badge" alt="favourite language" align="left">  
-
-<img src="https://img.shields.io/badge/Dream%20Career-Cyber%20Security%20Expert-orange.svg?style=for-the-badge" alt="dream career" align="right">  
-
-
-<!-- <img src="https://img.shields.io/badge/Currently%20Working%20as-Analyst%20in%20TCS-blue.svg?style=for-the-badge" alt="dream career"> -->
-  
-<br>  
-<br>
-<!--<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/black eagle (1).gif" alt="about-nk"> </a></h1> -->
-<h1 align="center"> <a href="https://portfolio-nitin.netlify.app/" ><img src="Assets/back_cover_linkedin.gif" alt="about-nk"> </a></h1>
-
-|![:name](https://count.getloli.com/get/@:nitinkumar30?theme='rule34')|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xv8g2cyk6u3z284ipqkrfpb8n&redirect=true)|
-|-|-|
-
-<!--START_SECTION:chessStats-->
-
-<!--END_SECTION:chessStats-->
-
-
-## Introduction
+<h1 align="center">
+  <img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/Hi.gif" width="40px" height="40px" alt="hi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=500&lines=Hello+there+%F0%9F%91%8B;I'm+Nitin+S+Kumar;Senior+Automation+Engineer;Pythonic+into+Automation;AI+%26+Cyber+Security+Enthusiast" alt="Typing SVG">
+</h1>
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+  <a href="https://www.linkedin.com/in/nitin30kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/nitinkumar30"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://dev.to/nitinkumar30"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.instagram.com/nitinkumar30.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:nitinkumar30.py@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/919113797199?text=Hi%20Nitin."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://stackoverflow.com/users/10957470/nitin-kumar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://pypi.org/user/nitinkumar30/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinkumar30" alt="Nitin Kumar"/> </p>
-
--   🔭 I'm currently working at **[Happiest Minds Technologies](https://www.happiestminds.com/)**.
-
--   🔭 I've previously worked at **[Tata Consultancy Services](https://www.tcs.com/)**.
-
--   🌱 I'm currently learning _[Python Automation]([https://github.com/nitinkumar30/data-structure-in-python](https://github.com/nitinkumar30/pytest_with_githubActions))_ and how to **automate repeated tasks** 💪.
-   
--   👯 I'm looking to collaborate on **Open Sourced** Projects on _Python_ 🐍 related Projects.
-   
--   🤔 I'm looking for help with _Cyber Security stuff._
-
--   💬 Ask me about **anything**, **anytime**!
-
--   ⚡ Fun fact: If you like me, you need space. 'Coz I code in [python](https://python.org).
-
--   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitin30kumar/), <a href="mailto:nitinkumar30.py@gmail.com">Email</a> or [WhatsApp](https://wa.me/919113797199?text=Hi%20Nitin.).
-
-
-<p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>
 
 <div align="center">
-<img href="https://github.com/nitinkumar30/" alt="GitHub followers" src="https://img.shields.io/github/followers/nitinkumar30?logo=github&logoColor=black&style=social">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img href="https://x.com/nitinkumar30/" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nitinkumar30?style=social">
+  <img src="https://komarev.com/ghpvc/?username=nitinkumar30&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/nitinkumar30?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/nitinkumar30?style=social" alt="GitHub stars">
 </div>
-
-## About Me
-
-I am working on **Automation with Selenium** and increasing my knowledge on **Python**. My interest lies in **Data Science**, **Artificial Intelligence** and **Cyber Security**.
-
-I have the **attitude** of a learner, the **courage** of an coder and the **thinking** of an hacker, engraved inside me. I wish to be a hacktivist in my community of people and have an *innate desire* to contribute to **country** and **society**.
-
-Currently, I'm working in one of the top MNCs of World as Senior Software Engineer with **programming skills** along with **leadership and some hacking skills**.
-
-## Github Stats
-
-
-<!-- <div href="https://github.com/nitinkumar30/github-readme-stats">
-  <img align="left" style="margin:.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar30&layout=compact&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=000000" />
-<div/> -->
-
-<!-- 
-<div href="https://github.com/nitinkumar30">
- <img align="center" style="margin:.5rem" src="http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27" />
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)](https://git.io/streak-stats)-->
-
-</div>
-
-<!-- <div href="https://github.com/nitinkumar30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" alt="nitinkumar30" />
-</div> -->
-
-|![](http://github-readme-streak-stats.herokuapp.com?user=nitinkumar30&theme=dark&currStreakNum=DD2727&sideNums=DD2727&background=000000&dates=46DD27)|![](https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&theme=cobalt&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)|
-|-|-|
 
 <br>
-<!-- LANGUAGE AND TOOLS ARE COMMENTED FOR NEW DESIGN -->
-
-[comment]: <> (## Languages and Tools)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>)
-
-[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>)
-
-[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>)
-
-[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>)
-
-[comment]: <> (<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>)
-
-[comment]: <> (<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>)
-
-[comment]: <> (<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>)
-
-<!-- https://github.com/tandpfun/skill-icons -->
 
 <p align="center">
-
-<!-- <img width="500" src="https://metrics.lecoq.io/nitinkumar30" alt="Github Metrics"> -->
-<!-- ![Nitin's Github Metrics](https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&lines=1&isocalendar=1&habits=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20javascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&config.timezone=Asia%2FCalcutta) -->
-
-  
-|![Metrics](https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&pagespeed=1&notable=1&rss=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&rss.limit=4&config.timezone=Asia%2FCalcutta)|<a href="https://app.daily.dev/nitinkumar30"><img src="https://api.daily.dev/devcards/1a60dace3b1f406b9c483c64d0cecfd5.png?r=d55" width="400" alt="Nitin Kumar's Dev Card" /></a>|
-|-|-|
-
-
+  <a href="https://portfolio-nitin.netlify.app/">
+    <img src="Assets/back_cover_linkedin.gif" alt="Nitin Kumar Banner" width="100%">
+  </a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=nitinkumar30&theme=redical)
-
-![](https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/github-user-contribution.svg)
-
-## Badges earned :name_badge:
-
-[![@nitinkumar30's Holopin board](https://holopin.io/api/user/board?user=nitinkumar30)](https://holopin.io/@nitinkumar30)
-<!-- ------------------------------------------------ --> 
-
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=R&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Design-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Design-SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Design-Canva-informational?style=for-the-badge&logo=canva&logoColor=white&color=orange)
+## <img src="Assets/Handshake.gif" width="28px" height="28px"> About Me
 
-<br>
-
-![](https://img.shields.io/badge/Framework-Pytest-informational?style=for-the-badge&logo=pytest&logoColor=white&color=brown)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=brown)
-![](https://img.shields.io/badge/Framework-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=brown)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=brown)
-
-<br>
-
-![](https://img.shields.io/badge/Cyber%20Security-tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cyber%20Security-DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=blue)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=darkblue)
-
-<br>
-
-![](https://img.shields.io/badge/OS-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black)
-![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black)
-
-<br>
-
-![](https://img.shields.io/badge/Database-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=green)
-![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=green)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=green)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-JIRA-informational?style=for-the-badge&logo=jira&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=for-the-badge&logo=Jira-Software&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Netbeans-informational?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=darkviolet)
-
-</details>
-
-<br>
-
-<!-- ----------------- END OF SKILLS SECTION -------------------------- -->  
-
-## My favourite projects  
-
-<center>
-<!-- [![Auto Book vaccine slots](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/auto-book-covid-vaccine-slots) -->
-
-<!-- [![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/pytest_with_githubActions) -->
-
-<!-- [![automate-item-order-in-meesho](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-item-order-in-meesho&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([[https://github.com/nitinkumar30/automate-item-order-in-meesho](https://github.com/nitinkumar30/automate-item-order-in-meesho)](https://github.com/nitinkumar30/automate-item-order-in-meesho))|[![Create Ransomware using Python](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/keylogger](https://github.com/nitinkumar30/ransomware-using-python))|
-[![pytest_with_githubActions](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/pytest_with_githubActions](https://github.com/nitinkumar30/pytest_with_githubActions))|[![automate-investing-website](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)]([https://github.com/nitinkumar30/automate-investing-website](https://github.com/nitinkumar30/automate-investing-website))|
-|-|-| -->
-
-<!-- [![Profile Cards](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909)](https://github.com/nitinkumar30/responsive-profile-cards) -->
-<!----------------- WRITING CLEAN CODE ------------------->
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/nitinkumar30/automate-item-order-in-meesho">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-item-order-in-meesho&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+    <td width="60%">
+      <p>
+        <strong>Senior Automation Engineer</strong> at <a href="https://www.happiestminds.com/">Happiest Minds Technologies</a> 
+        with <strong>5+ years</strong> of experience in building robust automation frameworks, 
+        driving quality excellence, and delivering high-impact solutions.
+      </p>
+
+      <ul>
+        <li>🔭 Currently building automation frameworks with <strong>Python & Selenium</strong></li>
+        <li>🌱 Diving deep into <strong>AI, LLMs & Agentic Automation</strong></li>
+        <li>👯 Open to collaborate on <strong>Open Source Python projects</strong></li>
+        <li>💬 Ask me about <strong>Automation, Python, Testing, or Cyber Security</strong></li>
+        <li>⚡ Previously at <a href="https://www.tcs.com/">Tata Consultancy Services</a> (2020-2024)</li>
+        <li>📫 Reach me at <a href="mailto:nitinkumar30.py@gmail.com">nitinkumar30.py@gmail.com</a></li>
+        <li>🧠 <strong>200+ projects delivered</strong> | <strong>30+ certifications</strong> | <strong>160+ GitHub stars</strong></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="Assets/coder.gif" alt="Coding" width="300px">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## My Arsenal
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</p>
+
+### 🤖 Automation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+### 🔐 Cybersecurity & AI
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT-3DDC84?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-2B5DE9?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+</p>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar30&show_icons=true&count_private=true&include_all_commits=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true" alt="GitHub Stats">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar30&layout=compact&langs_count=8&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nitinkumar30&theme=dark&hide_border=true&currStreakNum=DD2727&sideNums=DD2727&background=0d1117&dates=46DD27&sideLabels=FFFFFF&currStreakLabel=DD2727" alt="GitHub Streak">
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitinkumar30&theme=github_dark&utcOffset=5.5" alt="Productive Time">
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar30&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&custom_title=Nitin's%20Contribution%20Graph" alt="Activity Graph">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinkumar30&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies">
+</div>
+
+<img src="https://github.com/nitinkumar30/nitinkumar30/blob/master/Assets/github-user-contribution.svg" alt="Contribution Snake" width="100%">
+
+<br>
+
+## 📈 Daily.dev & Activity
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://app.daily.dev/nitinkumar30">
+        <img src="https://api.daily.dev/devcards/1a60dace3b1f406b9c483c64d0cecfd5.png?r=3b4" width="360" alt="Nitin's Dev Card">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/nitinkumar30/ransomware-using-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+    <td width="50%">
+      <img src="https://metrics.lecoq.io/nitinkumar30?template=classic&languages=1&followup=1&notable=1&rss=1&languages.ignored=html%2Ccss%2Cjavascript&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Badges & Holopin
+
+[![@nitinkumar30's Holopin board](https://holopin.io/api/user/board?user=nitinkumar30)](https://holopin.io/@nitinkumar30)
+
+<br>
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/edu-mail-auto-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=edu-mail-auto-generator&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/n8n-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=n8n-projects&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/nitinkumar30/pytest_with_githubActions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/naukri-auto-resume-uploader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=naukri-auto-resume-uploader&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
       </a>
     </td>
-    <td>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/automation-framework-in-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automation-framework-in-python&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/email-marketing-tool">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=email-marketing-tool&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/ransomware-using-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=ransomware-using-python&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/nitinkumar30/pytest_with_githubActions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pytest_with_githubActions&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
       <a href="https://github.com/nitinkumar30/automate-investing-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-investing-website&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
       </a>
     </td>
   </tr>
 </table>
 
-</center>
+<a href="https://stars.github.com/nominate/">
+  <p align="center">
+    <img src="https://img.shields.io/badge/%E2%AD%90-Nominate%20me%20for%20GitHub%20Stars-FFD700?style=for-the-badge" alt="Nominate for GitHub Stars">
+  </p>
+</a>
 
-<!---------------------------------------------------------------------->
- 
-<!-- <p><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=auto-book-covid-vaccine-slots&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project1" /></a>
+<br>
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=terminal-portfolio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project2" /></a>
- 
-<p align="right"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=automate-login-signup-with-Python&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project3" /></a>
+## 📝 Latest Blog Posts
 
-<p align="left"><a href="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=responsive-profile-cards&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Project4" /></a>
-<br><br> -->
+<!-- BLOG-POST-LIST:START -->
+- [Built with Google Gemini: AI Essay Generator with Gemini](https://dev.to/nitinkumar30/ai-essay-generator-with-gemini-34pc)
+- [Transition from pip to uv package manager](https://dev.to/nitinkumar30/transition-from-pip-to-uv-package-manager-3ike)
+- [Guide to publish your first PyPI library](https://dev.to/nitinkumar30/guide-to-publish-your-first-pypi-library-1bnh)
+- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
+- [How to Build India's Cheapest Penetration Testing Tool](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
+<!-- BLOG-POST-LIST:END -->
 
-**Liked my projects? [Nominate me for Github stars](https://stars.github.com/nominate/)**
+<a href="https://dev.to/nitinkumar30">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Read%20More%20Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="More Articles">
+  </p>
+</a>
 
-## Connect with me <img src="Assets/Handshake.gif" height="32px">
+<br>
 
-![Nitin's business card](https://user-images.githubusercontent.com/40369168/189452035-883c2056-e543-4857-8ff0-824e4548105a.png)
+## 🎯 Fun Zone
 
+<details>
+  <summary><strong>😂 Random Dev Joke</strong></summary>
+  <br>
+  <a href="https://readme-jokes.vercel.app">
+    <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300FFAA&aColor=%2300FFAA&borderColor=%2330363d" alt="README Jokes">
+  </a>
+</details>
 
+<details>
+  <summary><strong>💭 Random Dev Quote</strong></summary>
+  <br>
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
+  </a>
+</details>
+
+<details>
+  <summary><strong>🎮 Chess.com Stats</strong></summary>
+  <br>
+  
+  <!--START_SECTION:chessStats-->
+  <!--END_SECTION:chessStats-->
+
+</details>
+
+<br>
+
+## 💼 Featured Publications
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nitinkumar30/pyshrink-vscode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=pyshrink-vscode&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitinkumar30/phonetracer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar30&repo=phonetracer&show_icons=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🤝 Support
 
 <p align="center">
- 
-[<img align="left" alt="nitinkumar Portfolio" height="45" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="nitinkumar30 | Twitter" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="nitin30kumar | LinkedIn" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="nitinkumar30.py | Instagram" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="nitin-kumar | Stack Overflow" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
-
-[<img align="left" alt="nitin-kumar | WhatsApp" height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
-<!-- [<img align="left" alt="nitin-kumar | Telegram" height="45"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] -->
-
+  <a href="https://www.buymeacoffee.com/nitinkumar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
 </p>
 
-<br><br><br><br>
-<a href="https://www.buymeacoffee.com/nitinkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin30kumar/">
+    <img src="https://img.shields.io/badge/-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:nitinkumar30.py@gmail.com">
+    <img src="https://img.shields.io/badge/-Send%20Me%20An%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
+  </a>
+</p>
 
+<br>
 
-[website]: https://nitinkumar30.netlify.app
-<!-- [website]: https://nitin-kr.onrender.com -->
-[twitter]: https://twitter.com/nitinkumar30
-[linkedin]: https://www.linkedin.com/in/nitin30kumar
-[stack-overflow]: https://stackoverflow.com/users/10957470/nitin-kumar
-[instagram]: https://instagram.com/nitinkumar30.py
-[whatsapp]: https://api.whatsapp.com/send?phone=919113797199
-[telegram]: https://t.me/nitin30kumar
-[mta]: https://bit.ly/39NaCez
+---
+
+<p align="center">
+  <i>"Building the future with Python, AI, and an unhealthy amount of caffeine."</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Nitin%20S%20Kumar-00FFAA?style=flat-square" alt="Made with love">
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitinkumar30&color=00FFAA&style=flat-square&label=Profile+Views)

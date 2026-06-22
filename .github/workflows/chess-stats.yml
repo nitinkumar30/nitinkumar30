@@ -1,0 +1,17 @@
+name: Chess.com Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with Chess Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: nitin30kumar
+          GAMES_SIZE: 5
