@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="740" height="620" viewBox="0 0 740 620"><defs><linearGradient id="g1"><stop stop-color="#ff3cac"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.head{font:700 20px ui-monospace,monospace;fill:#ff63c8;letter-spacing:2px}.label{font:14px ui-monospace,monospace;fill:#f5eaff}.pct,.value{font:700 14px ui-monospace,monospace;fill:#6ee7ff}.rank{font:900 54px Inter,Arial;fill:#fff;filter:url(#gl)}.rank2{font:700 14px ui-monospace,monospace;fill:#ff8bdd}.sub{font:12px ui-monospace,monospace;fill:#c7a5d3}.cap{font:10px ui-monospace,monospace;fill:#7b5f8c;letter-spacing:.5px}@keyframes slide{0%{opacity:0;transform:translateX(40px)}100%{opacity:1;transform:translateX(0)}}.row{animation:slide .7s forwards;opacity:0}.r0{animation-delay:.3s}.r1{animation-delay:.5s}.r2{animation-delay:.7s}.r3{animation-delay:.9s}.r4{animation-delay:1.1s}.r5{animation-delay:1.3s}.r6{animation-delay:1.5s}@keyframes pop{0%{opacity:0;transform:scale(.6)}70%{transform:scale(1.08)}100%{opacity:1;transform:scale(1)}}.t{animation:pop .7s forwards;transform-box:fill-box;transform-origin:center;opacity:0}.t0{animation-delay:.2s}.t1{animation-delay:.4s}.t2{animation-delay:.6s}.t3{animation-delay:.8s}.t4{animation-delay:1s}.t5{animation-delay:1.2s}</style></defs><rect x="8" y="8" width="724" height="604" rx="28" fill="#09020f" stroke="#ff3cac" stroke-opacity=".7"/><text x="35" y="58" class="head">GITHUB / LIVE SIGNAL</text><text x="35" y="80" class="cap">Verified from the GitHub API on 2026-08-10</text><g><circle cx="185" cy="235" r="118" fill="none" stroke="#28103b" stroke-width="24"/><circle cx="185" cy="235" r="118" fill="none" stroke="url(#g1)" stroke-width="24" stroke-linecap="round" stroke-dasharray="520 740"><animate attributeName="stroke-dasharray" values="0 740;520 740" dur="1.6s" fill="freeze"/></circle><text x="185" y="222" text-anchor="middle" class="rank">222</text><text x="185" y="252" text-anchor="middle" class="sub">TOTAL STARS ★</text></g><g class="row r0"><rect x="360" y="158" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="186" class="label">Repositories</text><text x="665" y="186" text-anchor="end" class="value">234</text></g><g class="row r1"><rect x="360" y="213" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="241" class="label">Followers</text><text x="665" y="241" text-anchor="end" class="value">69</text></g><g class="row r2"><rect x="360" y="268" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="296" class="label">Stars Received</text><text x="665" y="296" text-anchor="end" class="value">222</text></g><g class="row r3"><rect x="360" y="323" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="351" class="label">Forks</text><text x="665" y="351" text-anchor="end" class="value">122</text></g><g class="row r4"><rect x="360" y="378" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="406" class="label">Following</text><text x="665" y="406" text-anchor="end" class="value">78</text></g><g class="row r5"><rect x="360" y="433" width="330" height="42" rx="12" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="382" y="461" class="label">STATUS</text><text x="665" y="461" text-anchor="end" class="value" fill="#25d366">ONLINE</text></g><rect x="-300" y="8" width="120" height="604" fill="url(#g1)" opacity=".18" transform="skewX(-18)"><animate attributeName="x" values="-300;900" dur="4s" repeatCount="indefinite"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 460 260" width="460" height="260" font-family="'Segoe UI',Arial,sans-serif">
+<defs>
+  <clipPath id="rounded"><rect x="0" y="0" width="460" height="260" rx="16" ry="16"/></clipPath>
+  
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#150821"/>
+    <stop offset="100%" stop-color="#2b1050"/>
+  </linearGradient>
+  <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+    <stop offset="0%" stop-color="#ff3fb0"/>
+    <stop offset="50%" stop-color="#b98bff"/>
+    <stop offset="100%" stop-color="#ff7fd0"/>
+    <animateTransform attributeName="gradientTransform" type="translate"
+      values="-300 0; 300 0; -300 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  
+</defs>
+<g clip-path="url(#rounded)">
+  <rect x="0" y="0" width="460" height="260" fill="url(#bg)"/>
+  <rect x="0" y="0" width="460" height="260" fill="none" stroke="rgba(255,140,220,0.30)" stroke-width="1.5"/>
+  <text x="20" y="30" font-size="15" font-weight="700" fill="#f6ecff">Nitin&#x27;s GitHub Stats</text>
+  <g transform="translate(92,148) rotate(-90)">
+      <circle r="58" fill="none" stroke="rgba(255,255,255,0.09)" stroke-width="12"/>
+      <circle r="58" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round"
+        stroke-dasharray="364.4" stroke-dashoffset="364.4">
+        <animate attributeName="stroke-dashoffset" from="364.4" to="51.0"
+          dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+      </circle>
+    </g>
+    <text x="92" y="144" text-anchor="middle" font-size="30" font-weight="800" fill="#f6ecff" filter="url(#glow)">A+</text>
+    <text x="92" y="166" text-anchor="middle" font-size="11" fill="#c3aee6" letter-spacing="1.5">DEV RANK</text>
+    <circle cx="92" cy="148" r="64" fill="none" stroke="#ff3fb0" stroke-opacity="0">
+      <animate attributeName="stroke-opacity" values="0;0.5;0" dur="2.4s" begin="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="62;72;62" dur="2.4s" begin="1.9s" repeatCount="indefinite"/>
+    </circle><g transform="translate(200,76)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.90s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="240,76" to="200,76"
+            dur="0.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1" additive="sum"/>
+          <text x="0" y="0" font-size="12.5" fill="#c3aee6" font-weight="600">Public Repos</text>
+          <text x="220" y="0" text-anchor="end" font-size="12.5" fill="#f6ecff" font-weight="800">42</text>
+          <rect x="0" y="8" width="220" height="6" rx="3" fill="rgba(255,255,255,0.09)"/>
+          <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accent)">
+            <animate attributeName="width" from="0" to="158" dur="1.2s" begin="1.10s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+          </rect>
+        </g><g transform="translate(200,118)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.08s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="240,118" to="200,118"
+            dur="0.6s" begin="1.08s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1" additive="sum"/>
+          <text x="0" y="0" font-size="12.5" fill="#c3aee6" font-weight="600">Total Stars</text>
+          <text x="220" y="0" text-anchor="end" font-size="12.5" fill="#f6ecff" font-weight="800">180+</text>
+          <rect x="0" y="8" width="220" height="6" rx="3" fill="rgba(255,255,255,0.09)"/>
+          <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accent)">
+            <animate attributeName="width" from="0" to="198" dur="1.2s" begin="1.28s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+          </rect>
+        </g><g transform="translate(200,160)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.26s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="240,160" to="200,160"
+            dur="0.6s" begin="1.26s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1" additive="sum"/>
+          <text x="0" y="0" font-size="12.5" fill="#c3aee6" font-weight="600">Followers</text>
+          <text x="220" y="0" text-anchor="end" font-size="12.5" fill="#f6ecff" font-weight="800">65</text>
+          <rect x="0" y="8" width="220" height="6" rx="3" fill="rgba(255,255,255,0.09)"/>
+          <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accent)">
+            <animate attributeName="width" from="0" to="110" dur="1.2s" begin="1.46s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+          </rect>
+        </g><g transform="translate(200,202)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.44s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="240,202" to="200,202"
+            dur="0.6s" begin="1.44s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1" additive="sum"/>
+          <text x="0" y="0" font-size="12.5" fill="#c3aee6" font-weight="600">Contributions</text>
+          <text x="220" y="0" text-anchor="end" font-size="12.5" fill="#f6ecff" font-weight="800">1.4k</text>
+          <rect x="0" y="8" width="220" height="6" rx="3" fill="rgba(255,255,255,0.09)"/>
+          <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#accent)">
+            <animate attributeName="width" from="0" to="209" dur="1.2s" begin="1.64s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+          </rect>
+        </g>
+</g>
+</svg>

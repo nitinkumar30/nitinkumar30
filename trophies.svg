@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="740" height="620" viewBox="0 0 740 620"><defs><linearGradient id="g1"><stop stop-color="#ff3cac"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.head{font:700 20px ui-monospace,monospace;fill:#ff63c8;letter-spacing:2px}.label{font:14px ui-monospace,monospace;fill:#f5eaff}.pct,.value{font:700 14px ui-monospace,monospace;fill:#6ee7ff}.rank2{font:700 16px ui-monospace,monospace;fill:#ff8bdd}.cap{font:11px ui-monospace,monospace;fill:#7b5f8c;letter-spacing:.5px}.repo{font:11px ui-monospace,monospace;fill:#ff8bdd}@keyframes pop{0%{opacity:0;transform:scale(.6)}70%{transform:scale(1.08)}100%{opacity:1;transform:scale(1)}}.t{animation:pop .7s forwards;transform-box:fill-box;transform-origin:center;opacity:0}.t0{animation-delay:.2s}.t1{animation-delay:.4s}.t2{animation-delay:.6s}.t3{animation-delay:.8s}.t4{animation-delay:1s}.t5{animation-delay:1.2s}</style></defs><rect x="8" y="8" width="724" height="604" rx="28" fill="#09020f" stroke="#ff3cac" stroke-opacity=".7"/><text x="35" y="70" class="head">TROPHY CASE</text><g class="t t0" transform="translate(35,105)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">🏆</text><text x="95" y="78" text-anchor="middle" class="label">edu-mail-auto-generator</text><text x="95" y="98" text-anchor="middle" class="rank2">121★ · top star</text></g><g class="t t1" transform="translate(250,105)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">⭐</text><text x="95" y="78" text-anchor="middle" class="label">Total Stars</text><text x="95" y="98" text-anchor="middle" class="rank2">222</text></g><g class="t t2" transform="translate(465,105)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">📚</text><text x="95" y="78" text-anchor="middle" class="label">Repositories</text><text x="95" y="98" text-anchor="middle" class="rank2">234</text></g><g class="t t3" transform="translate(35,245)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">👥</text><text x="95" y="78" text-anchor="middle" class="label">Followers</text><text x="95" y="98" text-anchor="middle" class="rank2">69</text></g><g class="t t4" transform="translate(250,245)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">🍴</text><text x="95" y="78" text-anchor="middle" class="label">Forks</text><text x="95" y="98" text-anchor="middle" class="rank2">122</text></g><g class="t t5" transform="translate(465,245)"><rect width="190" height="112" rx="20" fill="#110a1d" stroke="#ff3cac" stroke-opacity=".5"/><text x="95" y="52" text-anchor="middle" font-size="34">🐍</text><text x="95" y="78" text-anchor="middle" class="label">Python repos</text><text x="95" y="98" text-anchor="middle" class="rank2">91</text></g><text x="35" y="435" class="cap">Achievements &amp; live numbers pulled from the GitHub API on 2026-08-10</text><rect x="35" y="470" width="670" height="86" rx="18" fill="#110a1d" stroke="#7c3aed" stroke-opacity=".4"/><text x="55" y="499" class="head2" font-family="ui-monospace,monospace" font-size="15" font-weight="700" fill="#ff63c8">FASTEST GROWING</text><text x="55" y="524" class="label">edu-mail-auto-generator</text><text x="55" y="546" class="pct">Python · Automation · actively maintained since 2021</text><rect x="-300" y="8" width="120" height="604" fill="url(#g1)" opacity=".18" transform="skewX(-18)"><animate attributeName="x" values="-300;900" dur="4s" repeatCount="indefinite"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 460 200" width="460" height="200" font-family="'Segoe UI',Arial,sans-serif">
+<defs>
+  <clipPath id="rounded"><rect x="0" y="0" width="460" height="200" rx="16" ry="16"/></clipPath>
+  
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#150821"/>
+    <stop offset="100%" stop-color="#2b1050"/>
+  </linearGradient>
+  <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+    <stop offset="0%" stop-color="#ff3fb0"/>
+    <stop offset="50%" stop-color="#b98bff"/>
+    <stop offset="100%" stop-color="#ff7fd0"/>
+    <animateTransform attributeName="gradientTransform" type="translate"
+      values="-300 0; 300 0; -300 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  
+</defs>
+<g clip-path="url(#rounded)">
+  <rect x="0" y="0" width="460" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="460" height="200" fill="none" stroke="rgba(255,140,220,0.30)" stroke-width="1.5"/>
+  <text x="20" y="30" font-size="15" font-weight="700" fill="#f6ecff">Trophy Case</text>
+  <g transform="translate(62.0,90)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" from="0.2" to="1"
+            dur="0.55s" begin="0.40s" fill="freeze" calcMode="spline" keySplines="0.2 1.2 0.4 1" additive="sum"/>
+          <circle r="34" fill="#2b1050" stroke="#ffd76b" stroke-width="2.5"/>
+          <circle r="34" fill="none" stroke="#ffd76b" stroke-opacity="0">
+            <animate attributeName="stroke-opacity" values="0;0.6;0" dur="2.2s" begin="1.00s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="34;42;34" dur="2.2s" begin="1.00s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="10" text-anchor="middle" font-size="26">🥇</text>
+          <text x="0" y="56" text-anchor="middle" font-size="10" fill="#f6ecff" font-weight="700">Automation</text>
+          <text x="0" y="69" text-anchor="middle" font-size="8" letter-spacing="1.1" fill="#ffd76b">GOLD</text>
+        </g><g transform="translate(146.0,90)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.56s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" from="0.2" to="1"
+            dur="0.55s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.2 1.2 0.4 1" additive="sum"/>
+          <circle r="34" fill="#2b1050" stroke="#ffd76b" stroke-width="2.5"/>
+          <circle r="34" fill="none" stroke="#ffd76b" stroke-opacity="0">
+            <animate attributeName="stroke-opacity" values="0;0.6;0" dur="2.2s" begin="1.16s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="34;42;34" dur="2.2s" begin="1.16s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="10" text-anchor="middle" font-size="26">🏆</text>
+          <text x="0" y="56" text-anchor="middle" font-size="10" fill="#f6ecff" font-weight="700">Consistent</text>
+          <text x="0" y="69" text-anchor="middle" font-size="8" letter-spacing="1.1" fill="#ffd76b">GOLD</text>
+        </g><g transform="translate(230.0,90)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" from="0.2" to="1"
+            dur="0.55s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.2 1.2 0.4 1" additive="sum"/>
+          <circle r="34" fill="#2b1050" stroke="#d7dbe6" stroke-width="2.5"/>
+          <circle r="34" fill="none" stroke="#d7dbe6" stroke-opacity="0">
+            <animate attributeName="stroke-opacity" values="0;0.6;0" dur="2.2s" begin="1.32s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="34;42;34" dur="2.2s" begin="1.32s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="10" text-anchor="middle" font-size="26">🌟</text>
+          <text x="0" y="56" text-anchor="middle" font-size="10" fill="#f6ecff" font-weight="700">Star Power</text>
+          <text x="0" y="69" text-anchor="middle" font-size="8" letter-spacing="1.1" fill="#d7dbe6">SILVER</text>
+        </g><g transform="translate(314.0,90)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.88s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" from="0.2" to="1"
+            dur="0.55s" begin="0.88s" fill="freeze" calcMode="spline" keySplines="0.2 1.2 0.4 1" additive="sum"/>
+          <circle r="34" fill="#2b1050" stroke="#d7dbe6" stroke-width="2.5"/>
+          <circle r="34" fill="none" stroke="#d7dbe6" stroke-opacity="0">
+            <animate attributeName="stroke-opacity" values="0;0.6;0" dur="2.2s" begin="1.48s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="34;42;34" dur="2.2s" begin="1.48s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="10" text-anchor="middle" font-size="26">⚡</text>
+          <text x="0" y="56" text-anchor="middle" font-size="10" fill="#f6ecff" font-weight="700">Fast Fixer</text>
+          <text x="0" y="69" text-anchor="middle" font-size="8" letter-spacing="1.1" fill="#d7dbe6">SILVER</text>
+        </g><g transform="translate(398.0,90)" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.04s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" from="0.2" to="1"
+            dur="0.55s" begin="1.04s" fill="freeze" calcMode="spline" keySplines="0.2 1.2 0.4 1" additive="sum"/>
+          <circle r="34" fill="#2b1050" stroke="#e0a877" stroke-width="2.5"/>
+          <circle r="34" fill="none" stroke="#e0a877" stroke-opacity="0">
+            <animate attributeName="stroke-opacity" values="0;0.6;0" dur="2.2s" begin="1.64s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="34;42;34" dur="2.2s" begin="1.64s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="10" text-anchor="middle" font-size="26">🤖</text>
+          <text x="0" y="56" text-anchor="middle" font-size="10" fill="#f6ecff" font-weight="700">AI Adopter</text>
+          <text x="0" y="69" text-anchor="middle" font-size="8" letter-spacing="1.1" fill="#e0a877">BRONZE</text>
+        </g><rect x="-40" y="0" width="70" height="200" fill="#ffffff" opacity="0.08" transform="skewX(-18)">
+      <animate attributeName="x" from="-40" to="500" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+</g>
+</svg>
